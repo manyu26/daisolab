@@ -51,6 +51,7 @@ a:active {
 ------------------------------------------------------------------- */
 
 p {
+    font-size: $font-size-p;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
@@ -79,7 +80,6 @@ p.button a {
     color: #fff;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
-
 
 
 /* Headlines
@@ -198,6 +198,7 @@ ul, ol {
     padding: 0;
 }
 li {
+    font-size: $font-size-p;
     margin-left: 0;
 }
 
