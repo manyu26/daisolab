@@ -20,11 +20,11 @@ widget2:
   image: windows-Pmu6-i4iyNE-unsplash.jpg
   text: 'Research methods, funded projects, etc..'
 
-widget2:
-  title: "Research Activities"
+widget3:
+  title: "Dr. Li's Teaching Activities"
   url: 'https://manyu26.github.io/daisolab/research/'
-  image: windows-Pmu6-i4iyNE-unsplash.jpg
-  text: 'Research methods, funded projects, etc..'
+  image: barry-zhou-khjwIW9HH5s-unsplash.jpg
+  text: 'Courses taught, OERs, R workshop, etc.'
 
 
 #
