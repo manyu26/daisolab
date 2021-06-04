@@ -18,8 +18,6 @@
   url: "/teaching/"
   side: left
   dropdown:
-  - title: "My Courses"
-    url: "/teaching/courses"
   - title: "R Programming Summer Workshop 2021"
     url: "/teaching/rsummer"
   - title: "Open Education Teaching and Research"
