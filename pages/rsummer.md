@@ -32,6 +32,7 @@ permalink: "/teaching/rsummer"
 
 ## Week 2 - Psychometrics; Variable Manipulation
 * Week 2 Workshop notes and codes  (to be added)
+
 ### Learning objectives  
 * Reverse scale items
 * Compute scale scores
@@ -39,6 +40,7 @@ permalink: "/teaching/rsummer"
 
 ## Week 3 - Conducting Basic Statistical analyses
 * Week 3 Workshop notes and codes  (to be added) 
+
 ### Learning objectives  
 * Conduct basic t-test/ANOVA analyses
 * Conduct basic linear and logistic regression analyses
@@ -47,6 +49,7 @@ permalink: "/teaching/rsummer"
 
 ## Week 4 - CFA; Structural Equation Modeling </h2>
 * Week 4 Workshop notes and codes  (to be added)
+
 ### Learning objectives  
 * 
 * 
