@@ -7,6 +7,13 @@
 layout: frontpage
 header:
   image_fullwidth: aaron-doucett-97H6MQ0MGzk-unsplash.jpg
+
+widget1:
+  title: "DAISO Lab News"
+  url: 'https://manyu26.github.io/daisolab/test/'
+  image: typewriter-thumb.jpg
+  text: 'Check our DAISO lab news.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
