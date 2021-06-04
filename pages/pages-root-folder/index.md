@@ -36,8 +36,4 @@ In the Data-science Application in SOcial and community psychology (DAISO) lab, 
 The DAISO Lab is managed by 
 * Manyu Li
 * Assistant Professor
-* Department of Psychology
-* University of Louisiana at Lafayette
-
-* Ph.D. and MS in Psychology, University of Pittsburgh (2014)
-* B.S.Sc (Hons) in Psychology, Chinese University of Hong Kong (2008)
+* Department of Psychology, University of Louisiana at Lafayette
