@@ -17,7 +17,7 @@ slogan: "Manyu Li's Research Lab"
 description: '»DAISO Lab« is the data science research lab for social and community psychology managed by Dr. Manyu Li.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by Manyu Li with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by Manyu Li with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>All contents in this website by <a href="http://limanyu.wordpress.com" rel="Manyu Li">Manyu Li </a>is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>. '
 
 # Main author of the website
 # See > authors.yml
