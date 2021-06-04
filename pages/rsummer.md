@@ -28,7 +28,7 @@ permalink: "/teaching/rsummer"
 * create new variables and recode variables.
 
 ### Homework:
-* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult [Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){target="_blank"} 
+* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult [Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){:target="_blank"} 
 
 ## Week 2 - Psychometrics; Variable Manipulation
 * Week 2 Workshop notes and codes  (to be added)
