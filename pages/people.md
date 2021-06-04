@@ -21,6 +21,8 @@ gallery:
 
 Assistant Professor, Department of Psychology, University of Louisiana at Lafayette
 
+Associate Editor, [Current Psychology](https://www.springer.com/journal/12144){:target="_blank"}
+
 Ph.D. and M.S., Psychology, University of Pittsburgh, Pittsburgh, PA
 
 B.S.Sc.(hon), Psychology, Chinese University of Hong Kong, Hong Kong
