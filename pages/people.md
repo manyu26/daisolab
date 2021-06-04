@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "DAISO members"
-title: ""
+title: "People"
 teaser: "Lab Mentor - Manyu Li,
 Assistant Professor, Department of Psychology, University of Louisiana at Lafayette
 Ph.D. and M.S., Psychology, University of Pittsburgh, Pittsburgh, PA
