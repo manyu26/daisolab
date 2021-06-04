@@ -21,20 +21,15 @@ permalink: "/teaching/rsummer"
 * [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes)</p>
 
 
-<!-- wp:paragraph -->
-<p>Learning Objectives - By the end of Week 1, participants will be able to </p>
-<!-- /wp:paragraph -->
+### Learning Objectives-By the end of Week 1, participants will be able to 
+* define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. 
+* identify basic operators and functions.
+* install and request packages. 
+* subset data frames, select columns/rows from data frames and remove unwanted samples from data.
+* >create new variables and recode variables.
 
-<!-- wp:list -->
-<ul><li><span style="font-size:1rem;">define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. </span></li><li>identify basic operators and functions.</li><li>install and request packages. </li><li>subset data frames, select columns/rows from data frames and remove unwanted samples from data.</li><li>create new variables and recode variables.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Homework:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Install and start RStudio, set a working directory, and import a <em>.csv </em>file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult Chapter 1 and 2 of Li (2021) e-text "<a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a>"</li></ul>
+### Homework:
+* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult Chapter 1 and 2 of Li (2021) e-text "<a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a>"</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
