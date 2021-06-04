@@ -11,9 +11,9 @@ permalink: "/teaching/rsummer"
 
 
 # Getting Started/Comprehensive Resources:
-[Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r) (Weston and Yee, 2017)
-[R Tutorials](https://debyeeneuro.com/r-tutorials/) slides and resources by Weston and Yee (2016, 2017)
-[R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview) e-text (Li, 2021)
+* [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r) (Weston and Yee, 2017)
+* [R Tutorials](https://debyeeneuro.com/r-tutorials/) slides and resources by Weston and Yee (2016, 2017)
+* [R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview) e-text (Li, 2021)
 
 
 <p><a rel="noreferrer noopener" href="" target="_blank">R Tutorials</a> </p>
