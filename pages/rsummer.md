@@ -8,29 +8,17 @@ header:
    image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
 permalink: "/teaching/rsummer"
 ---
-<!-- wp:heading -->
 <h2>Getting Started/Comprehensive Resources:</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p><a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank">Learning to Work With R </a>(Weston and Yee, 2017) <a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank"></a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><a rel="noreferrer noopener" href="https://debyeeneuro.com/r-tutorials/" target="_blank">R Tutorials</a> slides and resources by Weston and Yee (2016, 2017)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a> e-text (Li, 2021).  </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><a rel="noreferrer noopener" href="http://personality-project.org/r/r.guide.html" target="_blank">Using R for Psychological Research</a> by The Personality Project</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>and many many more...</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 <h2>Week 1 - Basic R knowledge </h2>
