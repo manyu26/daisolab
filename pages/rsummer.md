@@ -98,7 +98,8 @@ permalink: "/teaching/rsummer"
 
 <!-- wp:group -->
 <div class="wp-block-group"><!-- wp:heading -->
-<h2>Additional topics if we have time. If not, here are some great resources for you to self-learn! </h2>
+<h2>Additional topics</h2>
+...if we have time. If not, here are some great resources for you to self-learn!
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
