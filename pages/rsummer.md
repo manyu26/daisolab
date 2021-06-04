@@ -15,56 +15,36 @@ permalink: "/teaching/rsummer"
 * [R Tutorials](https://debyeeneuro.com/r-tutorials/){:target="_blank"} slides and resources by Weston and Yee (2016, 2017)
 * [R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){:target="_blank"} e-text (Li, 2021)
 * [Using R for Psychological Research](http://personality-project.org/r/r.guide.html){:target="_blank"} by The Personality Project
-* *and many many more... 
+* and many many more... 
 
-## Week 1 - Basic R knowledge </h2>
-* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes)</p>
-
+## Week 1 - Basic R knowledge 
+* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes) 
 
 ### Learning Objectives-By the end of Week 1, participants will be able to 
 * define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. 
 * identify basic operators and functions.
 * install and request packages. 
 * subset data frames, select columns/rows from data frames and remove unwanted samples from data.
-* >create new variables and recode variables.
+* create new variables and recode variables.
 
 ### Homework:
-* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult Chapter 1 and 2 of Li (2021) e-text "<a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a>"</li></ul>
-<!-- /wp:list -->
+* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students["https://louis.oercommons.org/courseware/lesson/1310/overview"]{target="_blank"} 
 
-<!-- wp:heading -->
-<h2>Week 2 - Psychometrics; Variable Manipulation</h2>
-<!-- /wp:heading -->
+## Week 2 - Psychometrics; Variable Manipulation
+* Week 2 Workshop notes and codes  (to be added)
+### Learning objectives - By the end of Week 2, participants will be able to  </p>
+* Reverse scale items
+* Compute scale scores
+* Find scale reliability
 
-<!-- wp:paragraph -->
-<p>Week 2 Workshop notes and codes  (to be added)</p>
-<!-- /wp:paragraph -->
+## Week 3 - Conducting Basic Statistical analyses
+* Week 3 Workshop notes and codes  (to be added) 
+### Learning objectives - By the end of Week 3, participants will be able to 
+* Conduct basic t-test/ANOVA analyses
+* Conduct basic linear and logistic regression analyses
+* Visualize results using ggplot.
+* ...
 
-<!-- wp:paragraph -->
-<p>Learning objectives - By the end of Week 2, participants will be able to  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Reverse scale items </li><li>Compute scale scores</li><li>Find scale reliability </li><li>...</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2>Week 3 - Conducting Basic Statistical analyses</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p> Week 3 Workshop notes and codes  (to be added) </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Learning objectives - By the end of Week 3, participants will be able to   </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Conduct basic t-test/ANOVA analyses </li><li>Conduct basic linear and logistic regression analyses</li><li>Visualize results using ggplot.</li><li>...</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
 <h2>Week 4 - CFA; Structural Equation Modeling </h2>
 <!-- /wp:heading -->
 
