@@ -38,7 +38,8 @@ permalink: "/research/"
 <p>Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. One two-year full stipend and tuition waiver graduate research assistantship is available (terminal master research degree).</p>
 
 
-Instrument development: 
+Instrument development:
+
 [Check out the Psychological Place Attachment Scale (PPAS) > ](https://manyu26.github.io/daisolab/research/ppas)
 {: .t30 .button .radius}
 
