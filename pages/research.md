@@ -9,7 +9,7 @@ header:
 permalink: "/research/"
 ---
 
-For a full list of my publication, see 
+**For a full list of my publication, see**
 <ul>
 <li><a href="https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en">Google Scholar Record of Publications</a></li>
 <li><a href="https://orcid.org/0000-0002-8324-5868">ORCID (Record of research activities)</a></li>
