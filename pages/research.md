@@ -3,11 +3,17 @@ layout: page
 show_meta: false
 title: "Research"
 subheadline: ""
-teaser: ""
+teaser: "My research profile at a glance"
 header:
    image_fullwidth: "michaela-filipcikova-k-BvqSW15rE-unsplash.jpg"
 permalink: "/research/"
 ---
+
+For a full list of my publication, see 
+<ul>
+<li><a href="https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en">Google Scholar Record of Publications</a></li>
+<li><a href="https://orcid.org/0000-0002-8324-5868">ORCID (Record of research activities)</a></li>
+</ul>
 
 <p><strong>Research Methods/Analytic approaches:</strong></p>
 <ul>
@@ -17,7 +23,6 @@ permalink: "/research/"
 <li>Mixed modeling (Li, 2018 - 2019 PI grant)</li>
 <li>Latent profile/class analysis (Li, Lin &amp; Maer, in preparation)</li>
 <li>Structural equation modeling (e.g., Li &amp; Frieze, 2016)</li>
-<li>Survival analysis</li>
 <li>Social media/web crawling (Li et al., revise and resubmit)</li>
 <li>etc.</li>
 </ul>
