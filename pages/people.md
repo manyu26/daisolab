@@ -28,6 +28,7 @@ B.S.Sc.(hon), Psychology, Chinese University of Hong Kong, Hong Kong
 ## Current Graduate lab members 
 
 Cheyane Mitchell, B.S. in Psychology, Spelman College (Lab Manager)
+
 Melanie Cohen, B.S. in Psychology, California Lutheran University 
 
 ## Current Undergraduate lab members 
