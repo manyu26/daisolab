@@ -14,7 +14,7 @@ title: 'DaisoLab@ULLafayette'
 slogan: "Manyu Li's Research Lab"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Manyu Li's Research Lab in the Department of Psychology at UL Lafayette.'
+description: '»DAISO Lab« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by Manyu Li with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
