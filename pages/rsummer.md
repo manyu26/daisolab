@@ -20,7 +20,7 @@ permalink: "/teaching/rsummer"
 ## Week 1 - Basic R knowledge 
 * [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes) 
 
-### Learning Objectives-By the end of Week 1, participants will be able to 
+### Learning Objectives  
 * define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. 
 * identify basic operators and functions.
 * install and request packages. 
@@ -32,38 +32,30 @@ permalink: "/teaching/rsummer"
 
 ## Week 2 - Psychometrics; Variable Manipulation
 * Week 2 Workshop notes and codes  (to be added)
-### Learning objectives - By the end of Week 2, participants will be able to  </p>
+### Learning objectives  
 * Reverse scale items
 * Compute scale scores
 * Find scale reliability
 
 ## Week 3 - Conducting Basic Statistical analyses
 * Week 3 Workshop notes and codes  (to be added) 
-### Learning objectives - By the end of Week 3, participants will be able to 
+### Learning objectives  
 * Conduct basic t-test/ANOVA analyses
 * Conduct basic linear and logistic regression analyses
 * Visualize results using ggplot.
 * ...
 
-<h2>Week 4 - CFA; Structural Equation Modeling </h2>
-<!-- /wp:heading -->
+## Week 4 - CFA; Structural Equation Modeling </h2>
+* Week 4 Workshop notes and codes  (to be added)
+### Learning objectives  
+* 
+* 
+* 
 
-<!-- wp:paragraph -->
-<p>Week 4 Workshop notes and codes  (to be added)  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading -->
-<h2>Additional topics</h2>
+---
+## Additional topics
 ...if we have time. If not, here are some great resources for you to self-learn!
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3>RMarkdown, knitr, and papaja</h3>
-<!-- /wp:heading --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
+### RMarkdown, knitr, and papaja</h3>
 <p><a href="https://www.hzaharchuk.com/rmarkdown-guide/" target="_blank" rel="noreferrer noopener">R Markdown for Psychology Graduate Students</a> (Zaharchuk, 2021)</p>
 <!-- /wp:paragraph -->
 
@@ -73,13 +65,9 @@ permalink: "/teaching/rsummer"
 
 <!-- wp:paragraph -->
 <p><a href="https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html" target="_blank" rel="noreferrer noopener">R-eproducible Psychological Science</a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Multi-level Modeling/Mixed Effects Model (lme4)</h3>
-<!-- /wp:heading -->
+### Multi-level Modeling/Mixed Effects Model (lme4) 
 
-<!-- wp:paragraph -->
 <p><a href="https://benwhalley.github.io/just-enough-r/multilevel-models.html">Chapter 10 "Multilevel Model"</a> in Just Enough R  </p>
 <!-- /wp:paragraph -->
 
