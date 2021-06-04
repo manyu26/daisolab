@@ -62,5 +62,5 @@ Andre Rodriquez, McNair Scholar, BS in Psychology
 
 
 ---
-## DAISO members in conferences
+### DAISO members in conferences
 {% include gallery %}
