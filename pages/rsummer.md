@@ -18,7 +18,7 @@ permalink: "/teaching/rsummer"
 * and many many more... 
 
 ## Week 1 - Basic R knowledge 
-* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes) 
+* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes) 
 
 ### Learning Objectives  
 * define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. 
@@ -28,7 +28,7 @@ permalink: "/teaching/rsummer"
 * create new variables and recode variables.
 
 ### Homework:
-* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult [Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students]("https://louis.oercommons.org/courseware/lesson/1310/overview"){target="_blank"} 
+* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult [Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){target="_blank"} 
 
 ## Week 2 - Psychometrics; Variable Manipulation
 * Week 2 Workshop notes and codes  (to be added)
