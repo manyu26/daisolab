@@ -56,21 +56,10 @@ permalink: "/teaching/rsummer"
 ## Additional topics
 ...if we have time. If not, here are some great resources for you to self-learn!
 ### RMarkdown, knitr, and papaja</h3>
-<p><a href="https://www.hzaharchuk.com/rmarkdown-guide/" target="_blank" rel="noreferrer noopener">R Markdown for Psychology Graduate Students</a> (Zaharchuk, 2021)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="http://frederikaust.com/papaja/" target="_blank" rel="noreferrer noopener">papaja: Prepare APA journal articles with R Markdown</a> </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html" target="_blank" rel="noreferrer noopener">R-eproducible Psychological Science</a></p>
+* [R Markdown for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/){:target="_blank"} (Zaharchuk, 2021)
+* [papaja: Prepare APA journal articles with R Markdown](http://frederikaust.com/papaja/){:target="_blank"}  
+* [R-eproducible Psychological Science](https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html){:target="_blank"} 
 
 ### Multi-level Modeling/Mixed Effects Model (lme4) 
-
-<p><a href="https://benwhalley.github.io/just-enough-r/multilevel-models.html">Chapter 10 "Multilevel Model"</a> in Just Enough R  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://quantdev.ssri.psu.edu/tutorials/r-bootcamp-introduction-multilevel-model-and-interactions" target="_blank" rel="noreferrer noopener">R Bootcamp: Introduction to Multilevel Model and Interactions </a>by PennState Social Science Research Institute</p>
-<!-- /wp:paragraph -->
+* [papaja: Prepare APA journal articles with R Markdown](https://benwhalley.github.io/just-enough-r/multilevel-models.html){:target="_blank"}  
+* [R Bootcamp: Introduction to Multilevel Model and Interactions](https://quantdev.ssri.psu.edu/tutorials/r-bootcamp-introduction-multilevel-model-and-interactions){:target="_blank"}  
