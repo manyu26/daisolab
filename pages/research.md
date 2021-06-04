@@ -5,7 +5,7 @@ title: "Research"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "michaela-filipcikova-k-BvqSW15rE-unsplash.jpg"
 permalink: "/research/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
