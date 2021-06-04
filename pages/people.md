@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline: "DAISO members"
 title: "People"
 teaser: ""
