@@ -1,75 +1,131 @@
 ---
 layout: page
 show_meta: false
-title: "Psychological Place Attachment Scale (PPAS)"
+title: "R Learning Resources for Psychology Teachers and Students"
 subheadline: ""
-teaser: "How to use Psychological Place Attachment Scale (PPAS) in your research - Survey and Codebook"
+teaser: "This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette graduate students in summer 2021. All resources used in the workshop are shared/linked on this page."
 header:
-   image_fullwidth: "michaela-filipcikova-k-BvqSW15rE-unsplash.jpg"
+   image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
 permalink: "/teaching/rsummer"
 ---
+<!-- wp:heading -->
+<h2>Getting Started/Comprehensive Resources:</h2>
+<!-- /wp:heading -->
 
-<p>Developers: Manyu Li, Ph.D., University of Louisiana at Lafayette; Irene H. Frieze, Ph.D., University of Pittsburgh</p>
-<p><em>Note to researchers: The Psychological place attachment (PPAS) has both an original long form (30-item) and a short form (13 items). </em><em>To use the scale, replace the blank with the name of the place you intend to study. </em><em>R</em><em> indicates reverse codied items. In the original study (see citations below), the original (long form) PPAS was tested using both 18-22 year old  students at the University of Pittsburgh (in  PA, USA) and community sample of 19-61 year old adults who had lived in Pittsburgh, PA, USA. <strong>Amharic, Slovene and Turkish versions</strong> also exist and can be sent upon request. The PPAS-Short Form scale was tested using 18-22 year old students at the University of Pittsburgh.</em></p>
-<p><em>Please feel free to use the scale. We are also open to discussion and collaboration. <strong>We do ask that you send us your project publications so that we can keep track of research being done using the PPAS. If you translate the scale into another language or make any changes to the scale, we would appreciate a copy of the translation. </strong>Thank you very much for your interest in the PPAS.</em></p>
-<p><em>Questions/comments can be directed to Manyu Li, Ph.D., P.O. Box 43644, Lafayette, LA 70504, University of Louisiana at Lafayette, </em><a href="mailto:manyu.li@louisiana.edu"><em>manyu.li@louisiana.edu</em></a><em>, 1-337-482-6601</em></p>
-<p><strong><u>Psychological place attachment scale (PPAS)</u></strong></p>
-<p><em>APA Citation for the scale: </em></p>
-<p>Li, M., Frieze, I. H., Nokes-Malach, T., &amp; Cheong, J. (2013). Do friends always help your studies? Mediating processes between social relations and academic motivation. <em>Social Psychology of Education, 16,</em> 129-149.</p>
-<p>Li, M., Frieze, I. H., &amp; Cheong, J. (2014). The mediating role of place attachment on migration desire. <em>Journal of Behavioral Sciences, 24</em>, 1-17.</p>
-<p><strong>Often people have strong feelings toward a particular place, such as their school, places they have visited before, or even places they have never been to. Below are statements concerning your feelings toward ______________. Throughout the survey, “_____________” is defined as _____________________ (and in general other areas/communities you frequently visit in ___________________). </strong><strong>There are no right or wrong answers. </strong><strong>Please rate the following statement using the scale below:</strong></p>
-<p><strong><em>Strongly disagree – disagree – neither agree/disagree – agree – strongly agree</em></strong></p>
-<p><strong><em>&lt;-- a -------------------b-----------------------c-------------------d--------------e------&gt;</em></strong></p>
-<ol>
-<li>I feel happy when I am in ___________.</li>
-<li>I have significant memories of ______________.</li>
-<li>I don’t care about what happens in ____________. R</li>
-<li>I feel secure when I am in __________________.</li>
-<li>_____________ has a special meaning for me.</li>
-<li>I keep up with the news about __________ no matter where I am.</li>
-<li>I would not feel sad if I had to leave _____________. R</li>
-<li>I call my ________ friends in order to know what is happening in ________ when away.</li>
-<li>I don’t feel I belong in ______________. R</li>
-<li>I know all the buildings and areas in _______________.</li>
-<li>I have had bad experiences in _______________. R</li>
-<li>I suggest to others that they should visit _______________.</li>
-<li>I like ______________.</li>
-<li>I will forget about __________ if I move away. R</li>
-<li>I feel bored at __________________. R</li>
-<li>_________________ is not a comfortable place for me. R</li>
-<li>I don’t enjoy showing people important buildings or areas in _______________. R</li>
-<li>I put things around me to remind me of _____________.</li>
-<li>_____________ seems unfamiliar to me. R</li>
-<li>I know how to show people around in _____________.</li>
-<li>When I am not in _____________, I lose track of things happening in _________. R</li>
-<li>I tell people about things that happened to me in ______________.</li>
-<li>I don’t know much about _____________. R</li>
-<li>I am proud of _______________.</li>
-<li>It feels good to come back to ____________ after I have been away.</li>
-<li>I am always glad to meet people from __________ if out of town.</li>
-<li>I feel relaxed at __________.</li>
-<li>_______________ is very special to me.</li>
-<li>_______________ means a lot to me.</li>
-<li>I cheer for at least one ______________ sports teams.</li>
-</ol>
-<p><strong><u>Psychological place attachment scale – short form (PPAS-SF) – 13 items </u></strong></p>
-<p><em>APA Citation: </em></p>
-<p>Li, M., &amp; Frieze, I. H. (2016). Developing civic engagement in university education: Predicting current and future engagement in community services. <em>Social Psychology of Education, 19, </em>775-792.</p>
-<p><strong>Often people have strong feelings toward a particular place, such as their school, places they have visited before, or even places they have never been to. Below are statements concerning your feelings toward ______________. Throughout the survey, “_____________” is defined as _____________________ (and in general other areas/communities you frequently visit in ___________________). </strong><strong>There are no right or wrong answers. </strong><strong>Please rate the following statement using the scale below:</strong></p>
-<p><strong><em>Strongly disagree – disagree – neither agree/disagree – agree – strongly agree</em></strong></p>
-<p><strong><em>&lt;-- a -------------------b-----------------------c-------------------d--------------e------&gt;</em></strong></p>
-<ol>
-<li>I feel happy when I am in __________.</li>
-<li>I expect to have significant memories of ____________ after I leave.</li>
-<li>I don’t care about what happens in ___________. R</li>
-<li>I feel secure when I am in ________.</li>
-<li>_________ has a special meaning for me.</li>
-<li>I keep up with the news about ­­­­­­­­­__________ no matter where I am.</li>
-<li>I would not feel sad if I had to leave ______________. R</li>
-<li>I don’t feel I belong to ________________. R</li>
-<li>I like ____________.</li>
-<li>I will forget about _____________ if I move away. R</li>
-<li>_____________ is not a comfortable place for me. R</li>
-<li>_____________ seems unfamiliar to me. R</li>
-<li>I feel relaxed at ______________.</li>
-</ol>
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank">Learning to Work With R </a>(Weston and Yee, 2017) <a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://debyeeneuro.com/r-tutorials/" target="_blank">R Tutorials</a> slides and resources by Weston and Yee (2016, 2017)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a> e-text (Li, 2021).  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="http://personality-project.org/r/r.guide.html" target="_blank">Using R for Psychological Research</a> by The Personality Project</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>and many many more...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Week 1 - Basic R knowledge </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a rel="noreferrer noopener" href="https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing" target="_blank">Week 1 Workshop notes and codes</a> (powered by <a rel="noreferrer noopener" href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank">Google Research Colaborartory</a> - no installation is required to run codes)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learning Objectives - By the end of Week 1, participants will be able to </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><span style="font-size:1rem;">define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. </span></li><li>identify basic operators and functions.</li><li>install and request packages. </li><li>subset data frames, select columns/rows from data frames and remove unwanted samples from data.</li><li>create new variables and recode variables.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Homework:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Install and start RStudio, set a working directory, and import a <em>.csv </em>file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult Chapter 1 and 2 of Li (2021) e-text "<a rel="noreferrer noopener" href="https://louis.oercommons.org/courseware/lesson/1310/overview" target="_blank">R Programming for Psychology Teachers and Students</a>"</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Week 2 - Psychometrics; Variable Manipulation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Week 2 Workshop notes and codes  (to be added)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learning objectives - By the end of Week 2, participants will be able to  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Reverse scale items </li><li>Compute scale scores</li><li>Find scale reliability </li><li>...</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Week 3 - Conducting Basic Statistical analyses</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> Week 3 Workshop notes and codes  (to be added) </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learning objectives - By the end of Week 3, participants will be able to   </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Conduct basic t-test/ANOVA analyses </li><li>Conduct basic linear and logistic regression analyses</li><li>Visualize results using ggplot.</li><li>...</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Week 4 - CFA; Structural Equation Modeling </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Week 4 Workshop notes and codes  (to be added)  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2>Additional topics if we have time. If not, here are some great resources for you to self-learn! </h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>RMarkdown, knitr, and papaja</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.hzaharchuk.com/rmarkdown-guide/" target="_blank" rel="noreferrer noopener">R Markdown for Psychology Graduate Students</a> (Zaharchuk, 2021)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://frederikaust.com/papaja/" target="_blank" rel="noreferrer noopener">papaja: Prepare APA journal articles with R Markdown</a> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html" target="_blank" rel="noreferrer noopener">R-eproducible Psychological Science</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Multi-level Modeling/Mixed Effects Model (lme4)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://benwhalley.github.io/just-enough-r/multilevel-models.html">Chapter 10 "Multilevel Model"</a> in Just Enough R  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://quantdev.ssri.psu.edu/tutorials/r-bootcamp-introduction-multilevel-model-and-interactions" target="_blank" rel="noreferrer noopener">R Bootcamp: Introduction to Multilevel Model and Interactions </a>by PennState Social Science Research Institute</p>
+<!-- /wp:paragraph -->
