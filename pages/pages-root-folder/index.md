@@ -11,7 +11,7 @@ header:
 widget1:
   title: "DAISO Lab News"
   url: 'https://manyu26.github.io/daisolab/test/'
-  image: typewriter-thumb.jpg
+  image: header_typewriter.jpg
   text: 'Check out DAISO lab news.'
 
 widget2:
@@ -19,6 +19,13 @@ widget2:
   url: 'https://manyu26.github.io/daisolab/research/'
   image: windows-Pmu6-i4iyNE-unsplash.jpg
   text: 'Research methods, funded projects, etc..'
+
+widget2:
+  title: "Research Activities"
+  url: 'https://manyu26.github.io/daisolab/research/'
+  image: windows-Pmu6-i4iyNE-unsplash.jpg
+  text: 'Research methods, funded projects, etc..'
+
 
 #
 # Use the call for action to show a button on the frontpage
