@@ -64,25 +64,11 @@ Donaka Autry, McNair Scholar, BS in Psychology
 
 Andre Rodriquez, McNair Scholar, BS in Psychology
 
-<div class="medium-4 columns">
-   <aside>
-      <div class="panel radius">
-         <h3>Sidebar</h3>
-         <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-         </p>
-      </div>
-
-   <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
-
-
-      <div class="border-dotted radius b30">
-         <img src="IMG_4813.jpg" alt="Lab members photos in conference">
-         <p class="text-left">
-            Lab members in conferences </a>
-         </p>
-      </div>
-   </aside>
-</div>
+<aside>
+   <div class="border-dotted radius b30">
+      <img src="https://github.com/manyu26/daisolab/blob/master/images/IMG_4813.jpg?raw=true" alt="Lab members photos in conference">
+      <p class="text-left">
+         Lab members in conferences </a>
+      </p>
+   </div>
+</aside>
