@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "What do we do?"
+teaser: ""
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -14,17 +14,10 @@ header:
 
 ## Features
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+<p><strong>What does DAISO mean?</strong></p>
+<ul>
+<li><strong>D</strong>ata-science&nbsp;<strong>A</strong>pplication&nbsp;<strong>I</strong>n&nbsp;<strong>SO</strong>cial and community psychology. The DAISOLAB focuses on improving data science in social/community psychology.</li>
+<li>In Cantonese, DAISO&nbsp;<em>大數（據</em>）means Big Number or Big Data, highlighting the lab’s focus on analyzing big data and improving data science in psychology.&nbsp; This is also to recognize my Hong Kong heritage and to pay tribute to the place that taught me the wonderful world of Mathematics and statistics!</li>
 
 
 
