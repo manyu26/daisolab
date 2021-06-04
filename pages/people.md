@@ -1,5 +1,5 @@
 ---
-layout: page with sidebar
+layout: page-fullwidth
 subheadline: "DAISO members"
 title: "People"
 teaser: ""
@@ -12,10 +12,10 @@ permalink: "/people/"
 # Styling
 #
 image:
-    title:
-    thumb:
-    homepage:
-    caption:
+    title: DAISO members in conferences
+    thumb: DAISO members in conferences
+    homepage: 
+    caption: 
     caption_url:
 ---
 
