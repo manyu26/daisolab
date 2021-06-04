@@ -9,11 +9,10 @@ permalink: "/people/"
 
 gallery:
     - image_url: IMG_4813.jpg
-      caption: Lab members photos in conference
     - image_url: IMG_20200229_172937.jpg
-      caption: 
     - image_url: IMG_5816.jpg
-      caption: 
+    - image_url: IMG_20200229_172637.jpg
+    - image_url: IMG_0001.jpg
 
 
 ---
