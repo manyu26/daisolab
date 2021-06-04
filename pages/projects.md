@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Research Projects"
+subheadline: "Some of my research projects"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/research/projects/"
 ---
 <ul>
     {% for post in site.categories.design %}
