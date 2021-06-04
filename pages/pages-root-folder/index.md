@@ -18,7 +18,7 @@ widget2:
   title: "Research Activities"
   url: 'https://manyu26.github.io/daisolab/research/'
   image: windows-Pmu6-i4iyNE-unsplash.jpg
-  text: 'Research methods, funded projects, etc..'
+  text: 'Research methods, funded projects, etc.'
 
 widget3:
   title: "Dr. Li's Teaching Activities"
