@@ -39,5 +39,5 @@ permalink: "/research/"
 
 
 Instrument development:
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/research/ppas">Check out the Psychological Place Attachment Scale (PPAS)›</a>
+<a class="radius button small" href="https://manyu26.github.io/daisolab/research/ppas">Check out the Psychological Place Attachment Scale (PPAS)›</a>
 
