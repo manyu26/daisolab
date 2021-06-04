@@ -8,7 +8,7 @@ header:
    image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
 permalink: "/teaching/rsummer"
 ---
-<h2>Getting Started/Comprehensive Resources:</h2>
+#Getting Started/Comprehensive Resources:
 
 <p><a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank">Learning to Work With R </a>(Weston and Yee, 2017) <a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank"></a></p>
 

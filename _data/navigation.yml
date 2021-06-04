@@ -8,8 +8,6 @@
   url: "/research/"
   side: left
   dropdown:
-    - title: "Research Projects"
-      url: "/research/projects"
     - title: "Psychological Place Attachment Scale (PPAS)"
       url: "/research/ppas"
 
