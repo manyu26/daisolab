@@ -47,7 +47,7 @@ permalink: "/teaching/rsummer"
 * Visualize results using ggplot.
 * ...
 
-## Week 4 - CFA; Structural Equation Modeling </h2>
+## Week 4 - CFA; Structural Equation Modeling 
 * Week 4 Workshop notes and codes  (to be added)
 
 ### Learning objectives  
@@ -58,7 +58,8 @@ permalink: "/teaching/rsummer"
 ---
 ## Additional topics
 ...if we have time. If not, here are some great resources for you to self-learn!
-### RMarkdown, knitr, and papaja</h3>
+
+### RMarkdown, knitr, and papaja
 * [R Markdown for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/){:target="_blank"} (Zaharchuk, 2021)
 * [papaja: Prepare APA journal articles with R Markdown](http://frederikaust.com/papaja/){:target="_blank"}  
 * [R-eproducible Psychological Science](https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html){:target="_blank"} 
