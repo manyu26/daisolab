@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: aaron-doucett-97H6MQ0MGzk-unsplash.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -29,8 +29,8 @@ permalink: /index.html
 homepage: true
 ---
 
-> Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  <cite>Hebrews 13:2</cite>
+# > Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.  <cite>Hebrews 13:2</cite>
 
 ## Research Interests
 
-My research focuses on pursuing more efficient synthetic methods and achieving higher level perfection in the design of polymer architectures via controlled/living polymerization methods; and the study of applications of polymeric materials with well-defined structures in organic electronics, batteries, nanodiagnostics, and therapeutics, stimuli-responsive materials, etc.
+In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative studies or mixed method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn statistics and research methods to conduct research relating to these topics. Students will also have the opportunities to present at national conferences and apply for scholarships.  Since 2017, five of our lab student members have been funded as the McNair Scholar!
