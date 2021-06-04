@@ -107,10 +107,10 @@ defaults:
   -
     scope:
       path: '' 				# an empty string here means all files in the project
-      type: 'pages'
+      type: 'pages with sidebar'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      sidebar: right    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Manyu Li     # Default author for pages
   -
