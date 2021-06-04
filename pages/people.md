@@ -67,6 +67,10 @@ Andre Rodriquez, McNair Scholar, BS in Psychology
 <aside>
    <div class="border-dotted radius b30">
       <img src="https://github.com/manyu26/daisolab/blob/master/images/IMG_4813.jpg?raw=true" alt="Lab members photos in conference">
+      <img src="https://github.com/manyu26/daisolab/blob/master/images/IMG_20200229_172937.jpg?raw=true" alt="Lab members photos in conference">
+      <img src="https://github.com/manyu26/daisolab/blob/master/images/IMG_5816.jpg?raw=true" alt="Lab members photos in conference">
+      <img src="https://github.com/manyu26/daisolab/blob/master/images/IMG_20200229_172637.jpg?raw=true" alt="Lab members photos in conference">
+      <img src="https://github.com/manyu26/daisolab/blob/master/images/thumbnail_Image (1).jpg?raw=true" alt="Lab members photos in conference">
       <p class="text-left">
          Lab members in conferences </a>
       </p>
