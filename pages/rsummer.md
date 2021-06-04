@@ -8,9 +8,9 @@ header:
    image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
 permalink: "/teaching/rsummer"
 ---
-#Getting Started/Comprehensive Resources:
+# Getting Started/Comprehensive Resources:
+[Learning to Work With R>](https://www.psychologicalscience.org/observer/learning-to-work-with-r) (Weston and Yee, 2017)
 
-<p><a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank">Learning to Work With R </a>(Weston and Yee, 2017) <a rel="noreferrer noopener" href="https://www.psychologicalscience.org/observer/learning-to-work-with-r" target="_blank"></a></p>
 
 <p><a rel="noreferrer noopener" href="https://debyeeneuro.com/r-tutorials/" target="_blank">R Tutorials</a> slides and resources by Weston and Yee (2016, 2017)</p>
 
