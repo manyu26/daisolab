@@ -17,7 +17,7 @@ gallery:
 ---
 ## Lab Mentor
 
-**Manyu Li** [<img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png"/>](https://scholar.google.com/citations?user=lU50KEgAAAAJ&hl=en&authuser=4){:target="_blank"} [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png">](https://orcid.org/0000-0002-8324-5868){:target="_blank"} 
+**Manyu Li** [<img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png">](https://scholar.google.com/citations?user=lU50KEgAAAAJ&hl=en&authuser=4){:target="_blank"} [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png">](https://orcid.org/0000-0002-8324-5868){:target="_blank"} 
 
 Assistant Professor, Department of Psychology, University of Louisiana at Lafayette
 
