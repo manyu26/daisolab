@@ -7,6 +7,13 @@ header:
    image_fullwidth: "robin-canfield-MUwy-9TLUg0-unsplash.jpg"
 permalink: "/people/"
 
+gallery:
+    - image_url: IMG_4813.jpg
+      caption: Lab members photos in conference
+    - image_url: IMG_20200229_172937.jpg
+      caption: 
+    - image_url: IMG_5816.jpg
+      caption: 
 
 
 ---
@@ -67,3 +74,4 @@ Andre Rodriquez, McNair Scholar, BS in Psychology
    </div>
 </aside>
 
+{% include gallery %}
