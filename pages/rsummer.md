@@ -10,27 +10,16 @@ permalink: "/teaching/rsummer"
 ---
 
 
-# Getting Started/Comprehensive Resources:
-* [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r) (Weston and Yee, 2017)
-* [R Tutorials](https://debyeeneuro.com/r-tutorials/) slides and resources by Weston and Yee (2016, 2017)
-* [R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview) e-text (Li, 2021)
+## Getting Started/Comprehensive Resources:
+* [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r){:target="_blank"} (Weston and Yee, 2017)
+* [R Tutorials](https://debyeeneuro.com/r-tutorials/){:target="_blank"} slides and resources by Weston and Yee (2016, 2017)
+* [R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){:target="_blank"} e-text (Li, 2021)
+* [Using R for Psychological Research](http://personality-project.org/r/r.guide.html){:target="_blank"} by The Personality Project
+* *and many many more... 
 
+## Week 1 - Basic R knowledge </h2>
+* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](ttps://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes)</p>
 
-<p><a rel="noreferrer noopener" href="" target="_blank">R Tutorials</a> </p>
-
-<p><a rel="noreferrer noopener" href="" target="_blank"></a>   </p>
-
-<p><a rel="noreferrer noopener" href="http://personality-project.org/r/r.guide.html" target="_blank">Using R for Psychological Research</a> by The Personality Project</p>
-
-<p>and many many more...</p>
-
-<!-- wp:heading -->
-<h2>Week 1 - Basic R knowledge </h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing" target="_blank">Week 1 Workshop notes and codes</a> (powered by <a rel="noreferrer noopener" href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index" target="_blank">Google Research Colaborartory</a> - no installation is required to run codes)</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Learning Objectives - By the end of Week 1, participants will be able to </p>
