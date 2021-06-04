@@ -22,7 +22,8 @@
     url: "/teaching/courses"
   - title: "R Programming Summer Workshop 2021"
     url: "/teaching/courses"
-
+  - title: "Open Education Teaching and Research"
+    url: "/teaching/oer"
 - title: Blog
   url: "/blog/"
   side: left
