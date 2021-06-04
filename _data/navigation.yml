@@ -9,9 +9,9 @@
   side: left
   dropdown:
     - title: "Research Projects"
-    url: "/research/projects"
+      url: "/research/projects"
     - title: "Psychological Place Attachment Scale (PPAS)"
-    url: "/research/ppas"
+      url: "/research/ppas"
 
 
 - title: "Teaching"
@@ -20,7 +20,7 @@
   dropdown:
   - title: "My Courses"
     url: "/teaching/courses"
-  - title: "My Courses"
+  - title: "R Programming Summer Workshop 2021"
     url: "/teaching/courses"
 
 - title: Blog
