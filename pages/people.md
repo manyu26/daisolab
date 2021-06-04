@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page with sidebar
 subheadline: "DAISO members"
 title: "People"
 teaser: ""
