@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: aaron-doucett-97H6MQ0MGzk-unsplash.jpg
+  image_fullwidth: michaela-filipcikova-k-BvqSW15rE-unsplash.jpg
 
 widget1:
   title: "About DAISO research lab"
