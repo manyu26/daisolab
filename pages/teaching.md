@@ -29,7 +29,6 @@ permalink: "/teaching/"
 * Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System.
 
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials›</a>
-<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my open education works</a>
 
 
 ### Teaching Certification:
@@ -43,3 +42,5 @@ permalink: "/teaching/"
 * [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
 * [2018 APA STP Instructional Resource Award](https://teachpsych.org/page-1610199){:Target"_blank"}
 * [2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant](https://teachpsych.org/SoTLGrant){:Target"_blank"}
+
+<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my funded open education works</a>
