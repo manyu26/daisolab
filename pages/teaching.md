@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Teaching"
-subheadline: "My teaching profile at a glance"
+subheadline: "Li's teaching profile at a glance"
 teaser: 
 header:
    image_fullwidth: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
