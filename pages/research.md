@@ -2,8 +2,8 @@
 layout: page
 show_meta: false
 title: "Research"
-subheadline: ""
-teaser: "My research profile at a glance"
+subheadline: "My research profile at a glance"
+teaser:  
 header:
    image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
 permalink: "/research/"
