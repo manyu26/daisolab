@@ -4,7 +4,7 @@ subheadline: "DAISO members"
 title: "People"
 teaser: ""
 header:
-   image_fullwidth: "robin-canfield-MUwy-9TLUg0-unsplash.jpg"
+   image_fullwidth: "zdenek-machacek-FvTn9Dlv39A-unsplash.jpg"
 permalink: "/people/"
 
 gallery:
