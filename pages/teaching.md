@@ -9,7 +9,6 @@ header:
 permalink: "/teaching/"
 ---
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Courses I teach/taugh
 ### University of Pittsburgh
@@ -31,3 +30,12 @@ permalink: "/teaching/"
 
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials›</a>
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my open education works</a>
+
+
+### Teaching Certification:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
+
+[ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
