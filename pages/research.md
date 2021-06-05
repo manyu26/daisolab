@@ -25,9 +25,9 @@ permalink: "/research/"
 * Social media/web crawling (Li et al., 2020)
 
 ### Research Topics:
-* Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &amp; Wozencraft, 2018-2019 PI grant; Li, 2021, PI grant)
-* Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li, Lin, Li &amp; Frieze, 2019)
-* Education, e.g., learning, instruction, academic outcomes (e.g., Li &amp; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
+* Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &; Wozencraft, 2018-2019 PI grant; Li, 2021, PI grant)
+* Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li, Lin, Li &; Frieze, 2019)
+* Education, e.g., learning, instruction, academic outcomes (e.g., Li &; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
 * Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
 * Social media behaviors (Li et al., 2020; Johnson, Mitchell, Turki, and Li, on going)
 
