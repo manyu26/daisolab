@@ -5,7 +5,7 @@ subheadline: "What do we do?"
 teaser: ""
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "zdenek-machacek-FvTn9Dlv39A-unsplash.jpg"
 ---
 
 
