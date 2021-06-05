@@ -23,12 +23,13 @@ permalink: "/teaching/"
 * PSYC 340 Theories of Personality 
 * PSYC 513 Quantitative Models (Graduate levle)
 * PSYC 538 Advanced Social Psychology (Graduate Level)
+* Free, non-credit summer R workshop 
+<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials > ›</a>
 
 ### UL System
 * Designing Accessible Teaching Materials in the Digital World. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
 * Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System.
 
-<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials›</a>
 
 ### Teaching Awards:
 * [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}
