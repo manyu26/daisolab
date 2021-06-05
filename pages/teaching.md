@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Teaching"
 subheadline: ""
-teaser: "My teaching profile at a glance"
+teaser: "Dr. Manyu Li's teaching profile at a glance"
 header:
    image_fullwidth: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
 permalink: "/teaching/"
