@@ -26,11 +26,6 @@ widget3:
   image: barry-zhou-khjwIW9HH5s-unsplash.jpg
   text: 'Courses taught, OERs, R workshop, etc.'
 
-widget1:
-  title: "DAISO Lab News"
-  url: 'https://manyu26.github.io/daisolab/2019-08-12-news.md/'
-  image: header_typewriter.jpg
-  text: 'Check out DAISO lab news.'
 
 
 #
@@ -44,7 +39,7 @@ widget1:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://manyu26.github.io/daisolab/2019-08-12-news.md
+  url: https://manyu26.github.io/daisolab/news
   text: DAISO Lab News ›
   style: alert
 permalink: /index.html
@@ -53,10 +48,9 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-
 ---
 
-## Data Science Application in Social and community psychology 
+Data Science Application in Social and community psychology 
 
 In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative studies or mixed method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn statistics and research methods to conduct research relating to these topics. Students will also have the opportunities to present at national conferences and apply for scholarships.  Since 2017, five of our lab student members have been funded as the McNair Scholar!
 
