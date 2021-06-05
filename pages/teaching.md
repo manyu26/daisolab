@@ -9,6 +9,8 @@ header:
 permalink: "/teaching/"
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Courses I teach/taugh
 ### University of Pittsburgh
 * PSY 0035 Research Methods
