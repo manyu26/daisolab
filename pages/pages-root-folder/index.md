@@ -22,7 +22,7 @@ widget2:
 
 widget3:
   title: "Dr. Li's Teaching Activities"
-  url: 'https://manyu26.github.io/daisolab/research/'
+  url: '/teaching/'
   image: barry-zhou-khjwIW9HH5s-unsplash.jpg
   text: 'Courses taught, OERs, R workshop, etc.'
 
