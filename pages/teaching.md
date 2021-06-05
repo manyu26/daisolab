@@ -35,7 +35,10 @@ permalink: "/teaching/"
 ### Teaching Certification:
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+* [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
+* [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
 
-[ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
-
-[ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
+### Teaching Awards:
+* [2020 Outstanding Master's Mentor](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
+* [2019 APA CABE Teaching Resources Award](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
+* 2017 
