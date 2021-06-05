@@ -5,7 +5,7 @@ title: "Research"
 subheadline: ""
 teaser: "My research profile at a glance"
 header:
-   image_fullwidth: "michaela-filipcikova-k-BvqSW15rE-unsplash.jpg"
+   image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
 permalink: "/research/"
 ---
 
