@@ -9,8 +9,8 @@ header:
   image_fullwidth: aaron-doucett-97H6MQ0MGzk-unsplash.jpg
 
 widget1:
-  title: "DAISO Lab News"
-  url: 'https://manyu26.github.io/daisolab/2019-08-12-news.md/'
+  title: "About DAISO research lab"
+  url: '/info/'
   image: header_typewriter.jpg
   text: 'Check out DAISO lab news.'
 
@@ -26,6 +26,13 @@ widget3:
   image: barry-zhou-khjwIW9HH5s-unsplash.jpg
   text: 'Courses taught, OERs, R workshop, etc.'
 
+widget1:
+  title: "DAISO Lab News"
+  url: 'https://manyu26.github.io/daisolab/2019-08-12-news.md/'
+  image: header_typewriter.jpg
+  text: 'Check out DAISO lab news.'
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,16 +43,17 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
-  #url: https://tinyletter.com/feeling-responsive
-  #text: Inform me about new updates and features ›
-  #style: alert
+callforaction:
+  url: https://manyu26.github.io/daisolab/2019-08-12-news.md/
+  text: DAISO Lab News ›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 homepage: true
+
 ---
 
 ## Data Science Application in Social and community psychology 
