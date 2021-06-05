@@ -30,13 +30,6 @@ permalink: "/teaching/"
 
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials›</a>
 
-
-### Teaching Certification:
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-* [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
-* [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
-
 ### Teaching Awards:
 * [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}
 * [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
@@ -44,3 +37,10 @@ permalink: "/teaching/"
 * [2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant](https://teachpsych.org/SoTLGrant){:Target"_blank"}
 
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my funded open education works</a>
+
+### Teaching Certification:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+* [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
+* [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
+
