@@ -24,6 +24,7 @@ permalink: "/teaching/"
 * PSYC 513 Quantitative Models (Graduate levle)
 * PSYC 538 Advanced Social Psychology (Graduate Level)
 * Free, non-credit summer R workshop 
+
 <a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials > ›</a>
 
 ### UL System
