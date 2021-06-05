@@ -9,13 +9,12 @@ header:
 permalink: "/research/"
 ---
 
-**For a full list of my publication, see**
-<ul>
-<li><a href="https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en">Google Scholar Record of Publications</a></li>
-<li><a href="https://orcid.org/0000-0002-8324-5868">ORCID (Record of research activities)</a></li>
-</ul>
+### For a full list of my publication, see
+* [Google Scholar Record of Publications](https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en)
+* [ORCID (Record of research activities)](https://orcid.org/0000-0002-8324-5868)
 
-### *Research Methods/Analytic approaches:
+
+### Research Methods/Analytic approaches:
 * Bayesian approaches; machine learning (Li, 2019-2022 PI grant)
 * Automated Text Analysis (Li, 2018-2019 PI grant; Li, accepted)
 * Social network analysis (Li & Stone, 2018; Li. 2019-2022 PI grant)
