@@ -39,6 +39,7 @@ permalink: "/teaching/"
 * [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
 
 ### Teaching Awards:
-* [2020 Outstanding Master's Mentor](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
-* [2019 APA CABE Teaching Resources Award](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
-* 2017 
+* [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}
+* [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
+* [2018 APA STP Instructional Resource Award](https://teachpsych.org/page-1610199){:Target"_blank"}
+* [2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant](https://teachpsych.org/SoTLGrant){:Target"_blank"}
