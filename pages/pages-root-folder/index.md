@@ -44,7 +44,7 @@ widget1:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://manyu26.github.io/daisolab/2019-08-12-news.md/
+  url: https://manyu26.github.io/daisolab/2019-08-12-news.md
   text: DAISO Lab News ›
   style: alert
 permalink: /index.html
