@@ -25,7 +25,7 @@ permalink: "/teaching/"
 * PSYC 538 Advanced Social Psychology (Graduate Level)
 * Free, non-credit summer R workshop 
 
-<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials > ›</a>
+<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials ›</a>
 
 ### UL System
 * Designing Accessible Teaching Materials in the Digital World. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
