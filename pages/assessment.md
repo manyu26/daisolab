@@ -5,7 +5,7 @@ title: "Instructional & Assessment Research"
 subheadline: ""
 teaser:  
 header:
-   image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
+   image_fullwidth: "isaac-smith-AT77Q0Njnt0-unsplash.jpg"
 permalink: "/research/assessment/"
 ---
 
