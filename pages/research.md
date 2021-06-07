@@ -26,7 +26,7 @@ permalink: "/research/"
 ### Research Topics:
 * Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &; Wozencraft, 2018-2019 PI grant; Li, 2021, PI grant)
 * Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li, Lin, Li &; Frieze, 2019)
-* (Education){/research/asessment}, e.g., learning, instruction, academic outcomes (e.g., Li &; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
+* Education, e.g., learning, instruction, academic outcomes (e.g., Li &; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
 * Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
 * Social media behaviors (Li et al., 2020; Johnson, Mitchell, Turki, and Li, on going)
 
