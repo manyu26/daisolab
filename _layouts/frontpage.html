@@ -9,6 +9,17 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+
+{% comment %}
+*
+* First, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{content}}
+</div><!--/.row-->
+
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
@@ -45,11 +56,4 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
 
