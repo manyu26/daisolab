@@ -11,9 +11,9 @@ permalink: "/research/assessment/"
 
 In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu Li also conducts research and statistical analyses relating to instructional research, learning, educational assessment, and educational program evaluation. She has also involved in a number of STEM learning/program projects. For assessment needs or needs to external evaluator for your projects, please feel free to contact Dr. Manyu Li at manyu.li@louisiana.edu
 
-#### Sample works:
+#### Sample products:
 * Early Career Fellow for the National Study of Learning Mindset (NSLM) growth mindset intervention program, funded by Student Experience Research Network (Formerly Mindset Scholar Network) and University of Texas at Austin Population Research Center. 
-* BlackG, K., & Li*, M. (2020). Developing a Virtual Multicultural Intervention for University Students. Behavioral Sciences, 10(11), 168 - 178. doi:10.3390/bs10110168.
+* Black, K., & Li*, M. (2020). Developing a Virtual Multicultural Intervention for University Students. Behavioral Sciences, 10(11), 168 - 178. doi:10.3390/bs10110168.
 * Li, M., Wang, Y., Stone, H., & Turki U, N. (2021). Teaching Introductory Chemistry Online: The Application of Socio-cognitive Theories to Improve Students’ Learning Outcomes. Education Sciences 11(3), 95-108. DOI: 10.3390/educsci11030095
 * Li, M., & Stone, H. N. (2018). A social network analysis of the impact of a teacher and student community on academic motivation in a science classroom.  Societies, 8(3), 68-75. DOI: 10.3390/soc8030068
 * Li, M., & van LieuG, S. (2018). Traditional and online faculty members’ use of classroom assessment techniques (CATs): A mixed-method study.  Journal of Instructional Research, 7(1), 90-99. DOI: 10.9743/JIR.2018.8. 
