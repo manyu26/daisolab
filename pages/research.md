@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Research"
-subheadline: "My research profile at a glance"
+subheadline: "DAISO research projects at a glance"
 teaser:  
 header:
    image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
