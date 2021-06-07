@@ -6,7 +6,7 @@ subheadline: ""
 teaser:  
 header:
    image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
-permalink: "/research/assessment"
+permalink: "/research/assessment/"
 ---
 
 In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu Li also conducts research and statistical analyses relating to instructional research, learning, educational assessment, and educational program evaluation. She has also involved in a number of STEM learning/program projects. For assessment needs or needs to external evaluator for your projects, please feel free to contact Dr. Manyu Li at manyu.li@louisiana.edu
