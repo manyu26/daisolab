@@ -9,7 +9,7 @@ header:
 permalink: "/research/assessment"
 ---
 
-In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu Li also conducts research relating to instructional research, learning, educational assessment, and educational program evaluation. She has also involved in a number of STEM learning/program projects. For assessment needs or needs to external evaluator for your projects, please feel free to contact Dr. Manyu Li at manyu.li@louisiana.edu
+In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu Li also conducts research and statistical analyses relating to instructional research, learning, educational assessment, and educational program evaluation. She has also involved in a number of STEM learning/program projects. For assessment needs or needs to external evaluator for your projects, please feel free to contact Dr. Manyu Li at manyu.li@louisiana.edu
 
 #### Sample works:
 * Early Career Fellow for the National Study of Learning Mindset (NSLM) growth mindset intervention program, funded by Student Experience Research Network (Formerly Mindset Scholar Network) and University of Texas at Austin Population Research Center. 
