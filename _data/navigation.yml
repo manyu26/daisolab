@@ -9,7 +9,7 @@
   side: left
   dropdown:
     - title: "Instructional Assessment Research"
-      url: "/assessment/"
+      url: "/research/assessment/"
     - title: "Psychological Place Attachment Scale (PPAS)"
       url: "/research/ppas"
 
