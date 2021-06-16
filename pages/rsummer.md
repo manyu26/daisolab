@@ -66,5 +66,5 @@ permalink: "/teaching/rsummer"
 * [R-eproducible Psychological Science](https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html){:target="_blank"} 
 
 ### Multi-level Modeling/Mixed Effects Model (lme4) 
-* [papaja: Prepare APA journal articles with R Markdown](https://benwhalley.github.io/just-enough-r/multilevel-models.html){:target="_blank"}  
+* [Chapter 10: Multilevel Models in "Just Enough R"](https://benwhalley.github.io/just-enough-r/multilevel-models.html){:target="_blank"}  
 * [R Bootcamp: Introduction to Multilevel Model and Interactions](https://quantdev.ssri.psu.edu/tutorials/r-bootcamp-introduction-multilevel-model-and-interactions){:target="_blank"}  
