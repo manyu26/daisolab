@@ -37,6 +37,7 @@ permalink: "/teaching/rsummer"
 * Reverse scale items
 * Compute scale scores
 * Find scale reliability
+* Conduct exploratory and confirmatory factor analysis
 
 ## Week 3 - Conducting Basic Statistical analyses
 * Week 3 Workshop notes and codes  (to be added) 
@@ -47,7 +48,7 @@ permalink: "/teaching/rsummer"
 * Visualize results using ggplot.
 * ...
 
-## Week 4 - CFA; Structural Equation Modeling 
+## Week 4 - Structural Equation Modeling 
 * Week 4 Workshop notes and codes  (to be added)
 
 ### Learning objectives  
