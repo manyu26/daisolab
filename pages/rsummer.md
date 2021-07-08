@@ -51,7 +51,7 @@ permalink: "/teaching/rsummer"
 * Intro to linear mixed effects model.
 
 ## Week 4 - Some linear models 
-* (Week 4 Workshop notes and codes)[https://rpubs.com/manyu26/789033]
+* [Week 4 Workshop notes and codes](https://rpubs.com/manyu26/789033)
 * [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1ZVKUGobJbgMVodALq2soWdjdSqPiZHtY/view?usp=sharing)
 
 ### Learning objectives  
