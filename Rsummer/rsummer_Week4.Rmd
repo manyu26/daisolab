@@ -1,0 +1,423 @@
+---
+title: "R Summer Workshop - Week 4 Some Linear Models"
+author: "Manyu Li"
+date: "July 1, 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Refer to Week 3 notes for an introduction of R Markdown. 
+
+## Packages
+
+```{r include=FALSE}
+library(Hmisc)
+library(dplyr)
+library(psych) #for mediation model
+library(gt) #for drawing tables
+library(gtsummary) #for drawing tables
+library(ggplot2) #for plotting graphs
+library(emmeans) #for simple slopes
+library(lavaan) #for path/SEM 
+```
+
+
+## Dataset
+We will continue to use the World Value Survey - Wave 6 Algeria data for examples in this week. Last week, we discussed how to recode values into missing for a specific variable. However, the world value survey data have a uniform way of setting missing data, that is, any values in the raw variables that are negative are missing. In this case, we can set NA for all variables in the beginning. 
+
+```{r}
+data <- read.csv("https://raw.githubusercontent.com/manyu26/PsychLearnR/master/psychlearnr_data.csv")
+data[data<0]<-NA
+```
+
+## Preparing variables for examples in this week notes
+
+Linear models deal with both continuous variables and categorical variables. Categorical variables we have used so far include 
+
+* sex (V240) - 1 = Male; 2 = Female
+* relationship status (V57) - married (1), living together as married (2), divorced (3), separated (4), widowed (5), and single (6)
+* Perceived social class (V238) - 1 (upper), 2 (Upper Middle Class), 3 (Lower Middle Class), 4 (Working Class), 5 (Lower Class)
+
+
+The World Value Survey has limited continuous variables, but in Week 2 notes, we have created subscales score for the schwartz scale. (Note that they do not have good reliability, but we are using them to demonstrate our examples.)
+
+* Excitement (V70, V71, V73, V75, V76) - important to be creative, rich, successful, adventurous 
+* Caretake (V74B, V78, V79)  - important to help people, environment and maintain tradition
+* Security and conformity (V72, V77) - important to feel secure and behave properly
+
+The codes are repeated here. 
+
+```{R}
+caretake <- dplyr::select(data, V74B,V78,V79)
+caretake[sapply(caretake, function(x) x %in% "-2")] <- NA
+data$caretake_mean<-rowMeans(caretake)
+security<-dplyr::select(data,V72,V77)
+security[sapply(security,function(x) x %in% "-2")] <-NA
+data$security_mean<-rowMeans(security)
+excite <- dplyr::select(data, V70, V71, V73, V75, V76)
+excite[sapply(excite, function(x) x %in% "-2")] <- NA
+data$excite_mean<-rowMeans(excite)
+```
+
+Additionally, the World Value Survey calculated [two value scores](https://www.worldvaluessurvey.org/WVSContents.jsp)
+
+* Welzel Overall Secular Values (SACSECVAL) and 
+* Welzel emancipative values (RESEMAVAL).
+
+
+## Correlations  
+
+Correlations are often performed before analyzing a linear model. Feel free to skip to the next section if you are familiar with correlation analysis in R. 
+
+There are various ways to calculate correlations (pearson, spearman's, kendall's). We will only cover one way here (my favorite method). This method allows you to get a correlation matrix rather than pairwise correlations only. It is a two-step method. In the first step, you select the variables you want to correlate. In the second step, you run the correlation using ```rcorr()``` within the Hmisc package.
+
+```{r}
+schwartz<-dplyr::select(data,security_mean, caretake_mean, excite_mean, SACSECVAL, RESEMAVAL)
+rcorr(as.matrix(schwartz), type="pearson")
+```
+
+The default of ```rcorr()``` is pairwise deletion. To do listwide deletion, you have to remove your incomplete data first.
+
+```{r}
+schwartz<-dplyr::select(data,security_mean, caretake_mean, excite_mean, SACSECVAL, RESEMAVAL)
+schwartz_complete<-schwartz[complete.cases(schwartz),]
+cor.matrix<-rcorr(as.matrix(schwartz_complete), type="pearson")
+cor.matrix 
+```
+
+To make it into a beautiful table, you first have to understand your output. The ```rcorr()``` output contains three components, *r*, *n*, and *p*. In the correlation table we just obtained, *N* was the same across all pairs (because we used listwise deletion), so we only need to include *r* and *p* in our main table.  To extract these components, simply use *$* (e.g., ```cor.matrix$r```)
+
+```{R}
+cor_df_r<-as.data.frame.matrix(round(cor.matrix$r,2)) #round to 2 d.p.
+cor_df_r
+```
+
+The codes for p-values are a little longer since we need to make adjustments for APA reporting style. 
+```{R}
+cor_df_p<-as.data.frame.matrix(round(cor.matrix$P,3)) #round to 3 d.p.
+cor_df_p[cor_df_p == 0] <- "< .001"
+cor_df_p[is.na(cor_df_p)] <- "-"
+cor_df_p
+```
+
+Now that we have a data frame for our output, we can use different functions to make it a table (e.g., gt mentioned in Week 3 or kable). There are many ways you can do it, but note that it is more complicated if you want to use asterisks instead of reporting exact p-values. 
+
+##Linear Regression
+###Simple Linear Regression
+To conduct a simple linear regression testing how emancipative values (RESEMAVAL) predict secular values (SACSECVAL), we place the outcome variable on the left-hand side of the formula, and the predicting variable on the right-hand side of the formula. Similar to ANOVA, we use ```summary()``` and ```plot()``` to obtain summary statistics and relevant diagnostic plots. 
+
+```{R}
+reg<- lm(SACSECVAL~RESEMAVAL, data=data)
+summary(reg)
+plot(reg)
+```
+
+To transform it into a table, gtsummary package seems to be currently the easiest one. It automatically identify linear, logistic, and cox regression models. 
+```{R}
+simpletable<- reg %>% 
+  tbl_regression(label = list(RESEMAVAL="Emancipative Values")) 
+#or
+#tbl_regression(reg, label = list(RESEMAVAL="Emancipative Values")) 
+simpletable
+```
+
+Note that it doesn't print standard error. So it may be better to get standardized coefficient, rahter than unstandardized. 
+```{R}
+regstd<- lm(scale(SACSECVAL)~scale(RESEMAVAL), data=data)
+summary(regstd)
+simpletable<-tbl_regression(regstd, label = list("scale(RESEMAVAL)"="Emancipative Values")) 
+```
+
+###Multiple Linear Regression
+
+Multiple linear regression is simply adding more terms to your SLR formular using "+" signs. E.g., to predict secular values from emancipative values and excitement subscale of schwartz value scale:
+
+```{R}
+regmult<- lm(SACSECVAL~RESEMAVAL+excite_mean, data=data) 
+summary(regmult)
+```
+
+For standardized version,
+```{R}
+regmultstd<- lm(scale(SACSECVAL)~scale(RESEMAVAL)+scale(excite_mean), data=data)
+summary(regmultstd)
+```
+
+To create table, use the same method as SLR.  
+```{R}
+multitable<- regmultstd %>% 
+  tbl_regression(label = list("scale(RESEMAVAL)"="Emancipative Values", "scale(excite_mean)"="Value of Excitement")) 
+multitable
+```
+You can even combine them easily with gtsummary.
+```{R}
+mergetable<-
+  tbl_merge(
+    tbls = list(simpletable, multitable),
+    tab_spanner = c("**Step 1 Model**", "**Step 2 Model**")) #double asterisks are to bold texts
+mergetable
+```
+
+If you want to report results of a certain row of your table in text, gtsummary has a helpful function ```inline_text()``` that generates the text representation of your results. Simply indicate which row you want to report. (You can also use the merged table version but the code will become unnecessarily compplicate.)
+
+```{R}
+inline_text(multitable, variable = "scale(RESEMAVAL)")
+```
+
+Practice: Buid a multiple linear regression by picking variables you want to examine (e.g., sex and excitement values predicting secular values, etc.). See if you can generate a table with the gtsummary package. 
+
+##Hierarchical linear regression 
+
+To compare models or conduct hierarchical linear regression, simply run each model and then use ```anova()``` to obtain F-test results on the differences across models. However, make sure your sample sizes is the same across all linear regressions (i.e., removing missing data to achieve listwise deletion across the models)
+
+```{r}
+demo<-dplyr::select(data, SACSECVAL, V240,RESEMAVAL,excite_mean)
+demo<-demo[complete.cases(demo),]
+model1<-lm(SACSECVAL~V240, data=demo)
+model2<-lm(SACSECVAL~V240+RESEMAVAL, data=demo)
+model3<-lm(SACSECVAL~V240+RESEMAVAL+excite_mean, data=demo)
+anova(model1, model2, model3)
+
+```
+
+##Moderation
+Moderation can be conducted using the ```lm()``` function plus simple slope analysis with the emmeans package. We covered categorical x categorical simple slope test using emmeans in Week 3. So we will cover the other situations here. 
+
+When conducting moderation using linear regression, zero-centering is a common practice. In R, the function ```scale()``` allows users to center and/or standardized. Since we only want to center without standardized, we will say "true" to center, but "false" to scale in the arguments. 
+
+```{r}
+describe(data$excite_mean)
+data$excite_mean<-scale(data$excite_mean, center=T, scale=F)
+describe(data$excite_mean) #check that mean is zero.
+data$security_mean<-scale(data$security_mean, center=T, scale=F)
+describe(data$security_mean)  
+data$SACSECVAL<-scale(data$SACSECVAL, center=T, scale=F)
+describe(data$SACSECVAL)  
+data$RESEMAVAL<-scale(data$RESEMAVAL, center=T, scale=F)
+describe(data$RESEMAVAL)  
+```
+
+###Categorical x Continuous predictors
+
+In this example, we are predicting excitement value (i.e., perceived importance of having stimulation/excitement in life) from security value (i.e., perceived importance of behaving properly and living in security). This example also tests whether perceived social status moderates the relationship (e.g., would people with high social status show a stronger relationship between excitement and secular values than people with low social status?)
+
+```{r}
+mod1<-lm(excite_mean~ security_mean*factor(V238), data)
+summary(mod1)
+```
+
+Interaction/Moderation results were not significant, but what if it was? We need to run a simple slope analysis to observe the pattern. I outline the methods here, but for detailed explanation, [Decomposing, Probing, and Plotting Interactions in R by IDRE at UCLA](https://stats.idre.ucla.edu/r/seminars/interactions-r/) is a great guide.
+
+To obtain simple slopes predicting excitement from security values for each level of social status (i.e., each level of a categorical variable), we use the ```emtrends()``` function in the emmeans package. 
+```{r}
+emtrends(mod1, ~V238, var="security_mean")
+```
+
+To test differences in slopes (i.e., whether upper class differs from working class in the predictiveness of excitement from security values - would people in upper class have a stronger/weaker relationship between security and excitement values?), we use ```pairewise()```. 
+
+```{r}
+emtrends(mod1, pairwise~V238, var="security_mean")
+```
+
+To visualize the moderation, you may use ```emmip()``` function and include the variables you want to use as x-axis and grouping varible (t) using the format of ```t~x```. ```at=list(...)``` is to define the range for x-axis and t (optional). (Note: ggplot can achieve the same purpose as well, but emmip is easier since it directly takes the linear model you ran and apply it to the chart.)
+```{r}
+emmip(mod1, V238~security_mean, at=list(security_mean=seq(1,6,by=.05)),
+      xlab = "Security Value",
+      ylab = "Excitement Value",
+      tlab = "Perceived Social Status")
+```
+
+The above example is to treat the categorical variable as moderator, and continuous variable as explanatory variable. If you want to flip the role, it's more complicated but doable. First, we are no longer examining the simple slopes (because it doesn't make sense to interpret the relationship between categorical variable and continuous variable as slopes). Instead, we are examining the **simple effects** of categorical predictor on continuous outcome by different levels of a continuous moderator. Therefore, we will use the ```emmeans()``` function instead of ```emtrends()```. 
+
+Use ```at=list(...)``` to indicate what levels of the continuous moderator you want to test. Traditionally, we use -1SD, mean, and +1SD of the variable.
+
+```{R}
+describe(data$security_mean)
+```
+
+```{R}
+contmod<-emmeans(mod1, ~ security_mean*V238, at=list(security_mean=c(1.15,2.26,3.37)))
+contrast(contmod, "pairwise", by="security_mean")
+```
+
+To visualize: 
+```{r}
+p<- emmip(mod1, security_mean~V238, at=list(security_mean=c(1.15,2.26,3.37)),
+      xlab = "Perceived Social Status",
+      ylab = "Excitement Value",
+      tlab = "Security Value",
+      style="factor"
+      ,CI=TRUE) #you can add CI to your plot as well.
+p
+```
+
+```emmip()``` generates line graph. To show bar graph (since our x-axis is categorical), use ```ggplot()```
+```{r}
+data$security_group[data$security_mean>=3.37]<- "High"
+data$security_group[data$security_mean<3.37 & data$security_mean>=1.15]<-"Mid"
+data$security_group[data$security_mean<1.15]<-"low"
+count(data, security_group)
+
+filter(data, !is.na(data$security_group)) %>% #filter NA so it doesn't appear on graph
+  ggplot(aes(x=V238, y=excite_mean, fill=security_group))+
+  geom_bar(stat="identity",position="dodge") 
+#stat="identity" is to indicate that we want y=axis to be predicted values ratehr than simply a count of number of participants in each x category.
+#dodge means side-by-side presentation instead of stacked bars.
+```
+
+###Continuous X Continuous predictors
+
+In this example, we are predicting security value (i.e., perceived importance of behaving properly/having security in life) from secular value. This example also tests whether emancipative values moderates the relationship. 
+
+```{r}
+mod2<-lm(security_mean~SACSECVAL*RESEMAVAL, data)
+summary(mod2)
+```
+
+We get a significant interaction! Let's move on to simple slope analysis. Since we are dealing with continuous moderator, we need to identify levels. Again, traditionally, we use -1SD, Mean, and +1SD. 
+
+```{R}
+eman_low<-mean(data$RESEMAVAL, na.rm=T)-sd(data$RESEMAVAL, na.rm=T)
+eman_mid<-mean(data$RESEMAVAL, na.rm=T)
+eman_high<-mean(data$RESEMAVAL, na.rm=T)+sd(data$RESEMAVAL, na.rm=T)
+```
+
+(Note that because I didn't take away missing data before, I have to remove them now using ```na.rm=TRUE```. ```mean()``` and ```sd()``` do not take in missing values. Our regression analysis also excludes missing cases. So it is actually better to remove missingness upfront.)
+
+Since we are doing *simple slope* not *simple effect*, we use ```emtrends()``` to obtain separate slopes for each level of emancipative values we define (i.e., -1SD, mean, +1SD).
+
+```{R}
+emtrends(mod2, ~RESEMAVAL, var="SACSECVAL", at = list(RESEMAVAL=c(eman_low, eman_mid, eman_high)))
+```
+
+For people with high (+1SD) emancipative value, they show the strongest relationship between secular values and security values. In other words, for people who really desire freedom, secular values negatively and strongly predict their perceived importance of security (remember that security values are reverse-coded such that high score reflect low value.)
+
+To visualize our results, we use a similar code as the continuous x categorical situation using the format of ```emmip(model_name, moderator~predictor, at = list(...))```
+
+```{R}
+
+emmip(mod2, RESEMAVAL~SACSECVAL
+      , at=list(SACSECVAL=seq(1,6,by=.5),RESEMAVAL= c(eman_low, eman_mid, eman_high))
+      , xlab="Secular values"
+      , ylab="Security values"
+      , tlab="Emancipative values"
+      ,CI=T #optional
+      )
+
+```
+
+
+###Three-way interaction
+Let's level up and do a three-factor interaction.
+
+```{r}
+
+data$sex<-factor(data$V240,               #optional - for plots only
+                 levels=c(1,2)
+                ,labels=c("Male","Female"))
+mod3<-lm(security_mean~SACSECVAL*RESEMAVAL*sex, data)
+summary(mod3)
+```
+
+Let's visualize first. The formular is formatted as ```emmip(model_name, legend/fill~X | facet)```
+
+```{r}
+
+emmip(mod3, RESEMAVAL~SACSECVAL | sex
+      , at = list(SACSECVAL=seq(1,6,by=1),RESEMAVAL= c(eman_low, eman_mid, eman_high))
+      , xlab="Secular values"
+      , ylab="Security values"
+      , tlab="Emancipative values"
+      )
+```
+
+To examine simple slope/contrasts, we request simple slopes for each two-way relationship by holding the third variable "constant". For continuous variables, we may hold them "constant" by setting them at -1SD, mean, and +1SD (examples below).  
+
+```{R}
+emtrends(mod3, pairwise~sex|RESEMAVAL, var="SACSECVAL"
+        , at=list(RESEMAVAL= c(eman_low, eman_mid, eman_high))
+         )
+```
+
+To look at the relationship between the other continuous variable and the outcome variable by sex, simply change place:
+```{R}
+secu_low<-mean(data$SACSECVAL, na.rm=T)-sd(data$SACSECVAL, na.rm=T)
+secu_mid<-mean(data$SACSECVAL, na.rm=T)
+secu_high<-mean(data$SACSECVAL, na.rm=T)+sd(data$SACSECVAL, na.rm=T)
+
+emtrends(mod3, pairwise~sex|SACSECVAL , var="RESEMAVAL"
+        , at=list(SACSECVAL= c(secu_low, secu_mid, secu_high))
+         )
+```
+
+To hold the categorical variable "constant", we will not use the ```pairewise``` arguments. 
+```{r}
+emtrends(mod3, ~RESEMAVAL|sex, var="SACSECVAL", at = list(RESEMAVAL=c(eman_low, eman_mid, eman_high)))
+```
+
+
+##Mediation model
+
+Running mediation models in R is very convenient with the [psych package ```mediate()``` function](http://personality-project.org/r/psych/HowTo/mediation.pdf). In this example, 
+
+```{r}
+medmod<-mediate(security_mean~RESEMAVAL+(SACSECVAL), data=data)
+medmod
+```
+
+You can add more mediators to the model if you need it. 
+```{r}
+medmod2<-mediate(security_mean~V240+(RESEMAVAL)+(SACSECVAL), data=data)
+medmod2
+```
+
+You can even add moderator to make a mediated moderation or moderated mediation (not very recommended as we discussed in PSYC513 this past semester...).
+
+```{r}
+medmod3<-mediate(security_mean~V240*V238+(RESEMAVAL)+(SACSECVAL), data=data)
+medmod3
+```
+
+
+##structural equation modeling 
+If you have more than one outcome variables, we may choose to do a path model or a structural equation model (SEM) using the [package *lavaan*](https://lavaan.ugent.be/tutorial/sem.html). There are two steps involved: (1) stating your model and (2) run the model.
+
+For path model, there is no latent variables (i.e., no measurement model). Remember that all formula are in the format of ```y~x1+x2+...+xn```. In this example, our two outcome variables are the two values (secular and emancipative), and our predictors are the three subscales of Schwartz. Emancipative values may change across age, so let's control for that. This will also help us get a overidentified model (to have fit indices to observe).
+
+```{r}
+pathmodel<- '
+  RESEMAVAL~ V242+security_mean+caretake_mean+excite_mean
+  SACSECVAL~security_mean+caretake_mean+excite_mean'
+fitpath<-sem(pathmodel, data= data)
+summary(fitpath, fit.measures=TRUE, standardized=TRUE)
+
+```
+
+Alternatively, you may also use measurement model to identify latent variables. For the purpose of this example, we assume that the Schwartz world values form a general world values measurement, and the secular and emancipative values form a materialism measurement. Then, we predict materialism from general world values
+
+```{r}
+semmodel<- '
+  General World Values =~ security_mean+caretake_mean+excite_mean
+  Materialism =~ RESEMAVAL+SACSECVAL
+
+  Materialism~General World Values
+'
+fitsem<-sem(semmodel, data= data)
+summary(fitsem, fit.measures=TRUE, standardized=TRUE)
+
+```
+
+##Logistic Regression 
+Running a logistic regression is similar to linear regression except that you use ```glm()``` instead of ```lm()``` function. Assuming that we are predicting whether people would like to have neighbors from another religion (V41), with 1 = not wanting to have different religion neighbor and 2 = would not mind. We are predicting from sex (V240) and secular values (SACSECVAL).
+
+```{r}
+data$religneighbor[data$V41==1]<-1 #not want
+data$religneighbor[data$V41==2]<-0 #ok
+logimod<-glm(religneighbor~factor(V240)+SACSECVAL, data, family = "binomial")
+summary(logimod)
+```

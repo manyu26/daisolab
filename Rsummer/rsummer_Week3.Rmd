@@ -1,0 +1,418 @@
+---
+title: "R Summer Workshop - Week 3 Categorical IVs, Tables, and Plots"
+author: "Manyu Li"
+date: "July 1, 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax (coding language) for authoring HTML, PDF, and MS Word documents. In a R Markdown document, you will have text section (like the textbox we used in the google colab document) and code chunk (like the code box we used in google colab). The text section is where we use the Markdown language. Markdown language is a very straightforward and simple coding language. For basic knowledge of Markdown, see [Basic Syntax in the Markdown Guide](https://www.markdownguide.org/basic-syntax/). 
+
+For more details on using R Markdown see [the R Studio R Markdown resource](http://rmarkdown.rstudio.com). When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
+
+## Packages
+By now, you should be very familiar with the common packages that we use in psychology data analyses. You can just call your packages upfront so that you don't have to do that later.
+
+If you have never install these packages in your computer, use *install.packages()* first. (the statement *eval=FALSE* is to ask R not to run this when it knits the document - if you let the run during knitting, it will take you a long time to knit every time). If you have already installed these packages, skip to the next codes (i.e., *library()*). 
+
+```{r eval=FALSE}
+install.packages("Hmisc")
+install.packages("tidyverse") #contains a bunch of important packages
+install.packages("gtsumamry") 
+```
+
+As you see, we always start and end the code chunk using three symbols `. When you open the code chunk, you need to tell R that your code is a "r" code. Then, you may add statements to control what shows or not show when you knit your final RMarkdown document. For example, "eval=False" means that you do not run the code when you knit. "include=FALSE" means that you do not want to output being included in your RMarkdown document. "echo=FALSE" means that you do not want to print the codes (the input) when you knit your document. 
+
+Calling a package is not relevant to our main analyses, so I have decided to only print the codes (so people know what packages I have used) but not the output (readers do not need to see what has been loaded or masked, etc.!). Try deleting "include=FALSE" and you will see a long list of unimportant outputs being printed!
+
+```{r include=FALSE}
+library(Hmisc)
+library(dplyr)
+library(psych)
+library(tidyverse)
+library(gt) #for drawing tables
+library(gtsummary) #for drawing tables
+library(stargazer) #for drawing tables
+library(ggplot2) #for plotting graphs
+```
+
+Also, since we have already discussed how to install packages and call packages multiple times, starting from here, I will only list the ```library()``` function in our notes and codes. If you do not have them, install it first using ```install.packages()```.
+
+## Dataset
+We will continue to use the World Value Survey - Wave 6 Algeria data for examples in this week. Last week, we discussed how to recode values into missing for a specific variable. However, the world value survey data have a uniform way of setting missing data, that is, any values in the raw variables that are negative are missing. In this case, we can set NA for all variables in the beginning. 
+
+```{r}
+data <- read.csv("https://raw.githubusercontent.com/manyu26/PsychLearnR/master/psychlearnr_data.csv")
+data[data<0]<-NA
+```
+
+## Preparing variables for examples in this week notes
+
+In Week 2 notes, we have created subscales score for the schwartz scale. (Note that they do not have good reliability, but we are using them to demonstrate our examples.)
+
+* Excitement (V70, V71, V73, V75, V76) - important to be creative, rich, successful, adventurous 
+* Caretake (V74B, V78, V79)  - important to help people, environment and maintain tradition
+* Security and conformity (V72, V77) - important to feel secure and behave properly
+
+The codes are repeated here. 
+
+```{R}
+caretake <- dplyr::select(data, V74B,V78,V79)
+caretake[sapply(caretake, function(x) x %in% "-2")] <- NA
+data$caretake_mean<-rowMeans(caretake)
+security<-dplyr::select(data,V72,V77)
+security[sapply(security,function(x) x %in% "-2")] <-NA
+data$security_mean<-rowMeans(security)
+excite <- dplyr::select(data, V70, V71, V73, V75, V76)
+excite[sapply(excite, function(x) x %in% "-2")] <- NA
+data$excite_mean<-rowMeans(excite)
+```
+
+Additionally, the World Value Survey calculated [two value scores](https://www.worldvaluessurvey.org/WVSContents.jsp)
+
+* Welzel Overall Secular Values (SACSECVAL) and 
+* Welzel emancipative values (RESEMAVAL).
+
+
+## Descriptive statistics
+
+```{R}
+demo <- dplyr::select(data, V57, V240, V229)
+tbl_summary(demo) #gtsummary package
+```
+
+You can add label to the table subtitles. 
+```{R}
+demo <- dplyr::select(data, V57, V240, V229)
+tbl_summary(demo,
+            label=(list(V57="Relationship Status",V240="sex",V229="Perceived Social Status"))
+            )
+```
+
+There are tons of other good packages and functions for tables. Depending on your need, you may end up choosing different packages for different tables. 
+
+```{r}
+stargazer(demo) #default type is latex
+```
+
+```{r}
+stargazer(demo, type="html")  
+stargazer(demo, type="text")  
+```
+
+## Chi-square test of independence
+When you have two categorical variables, you will likely be using chi-square test of independence. In R, the easiest way is to create a frequency table of the two variables you want to examine using the ```table()``` function. Then, run the chi-square test on the table. 
+
+Let's look at a new variable, relationship status (V57). Relationship status is coded as married (1), living together as married (2), divorced (3), separated (4), widowed (5), and single (6). Does relationship status differ by sex (V240 - 1 = Male; 2 = Female)?  Let's call this table "table_sexmarried". 
+
+```{r}
+table_sexmarried<- table(data$V57, data$V240)
+table_sexmarried #print the raw table
+```
+
+```{r}
+chisq.test(table_sexmarried)
+```
+As shown in the output above, the null hypothesis "sex and relationship status are independent" is not rejected. Sex and relationship status are not related. From the table, we can also observe that the distribution of relationship status across male and female is very similar. Most participants were either married or single.
+
+### Publishable Table Format 
+Using R to draw tables and figures have several advantages. First, you can avoid errors when moving numbers from R to your text-editing document. Second, once you have the codes developed for a specific type of table, you only need to re-run the codes with any new analysis to get a new table. It is time-saving in the long run.
+
+However, there are many different ways to create table in R. What packages you use depend on what analyses you are doing. We will introduce the package *gt* here. To build a table, you first need to transfer your results (table output from another function) to a data frame. 
+
+```{r}
+table_sexmarried<-as.data.frame.matrix(table_sexmarried) #coerce your table to data frame
+table_sexmarried
+```
+
+As you see above, our column names and row names are numeric (i.e., not properly named). Let's take a moment to name the columns and rows. 
+
+```{r}
+colnames(table_sexmarried)<- c("Male", "Female")
+rownames(table_sexmarried)<- c("married"  , "divorced", "separated ", "widowed",  "single")
+table_sexmarried
+```
+
+Now we see the table we want. We can use the *gt* function in the *gt* package to build a table. See [Introduction to Creating gt Tables](https://gt.rstudio.com/articles/intro-creating-gt-tables.html) for the structure of gt. 
+
+The very basic format of gt table is to simply use ```gt(your_table_in_df)```.
+```{r}
+gt_sexmarried<- gt(table_sexmarried)
+gt_sexmarried
+```
+
+But as you see, it still lacks components we want. For example, it doesn't have the row names. To do that, we add to the argument more statemetns to clarify what we need. The infix operator ```%>%``` pass whatever is on the left hand-side of the operator to the first arugment of the right hand side of the operator. ```table_sexmarried %>% gt()``` is thus equivalent to ```gt(table_sexmarried)```. Changing codes from nesting to chaining using %>% is simply a personal choice. However, this practice makes the codes easier to read (left to right instead of inside out). Also, when your codes get really complicated, e.g.,```summary(head(data))```, chaining helps to see the different functions being applied step-by-step, i.e., ```data %>% head() %>% summary()```. When building plots and tables, this operator is a gem.  
+
+Let's add our rownames to stub. "stub" is the name given to leftmost, non-data column in a table) as defined by the [gt table structure](https://gt.rstudio.com/reference/figures/gt_parts_of_a_table.svg).
+
+```{r}
+gt_sexmarried<-
+  table_sexmarried %>%
+  gt(rownames_to_stub = TRUE)
+gt_sexmarried
+```
+
+Let's try adding different things to the table. 
+
+```{r}
+gt_sexmarried<-
+  table_sexmarried %>%
+  gt(rownames_to_stub = TRUE) %>%
+  tab_header(title = "Relationship Status by sex") %>%
+  tab_stubhead(label = "Relationship Status") %>%
+  tab_source_note(source_note = "Note: Participants were also given the option ''living 
+                  togehter as married'' but no participants chose this option" )
+gt_sexmarried
+```
+
+
+##t-tests and ANVOA 
+
+###Test of Assumptions
+A common assumption across tests that we discuss in this chapter is the test of homoscedasticity, or test of equal variance. Below are codes for the common variance tests, including F-test *var.test* (for one IV only), Bartlett's test *bartlett.test* (for one more more IVs) and Levene's test *leveneTest*.
+
+Let's conduct a equal variance test for testing sex differences (V240) on seucrity subscale of Schwartz values scale (*security_mean*). To do that, we only need to input the formula within a function of our choice. 
+
+First, make sure your IV is set as "factor" variable. It doesn't matter if you are only running the diagnostic or anova test, but if you are conducting post-hoc and other analyses, you may get an error message if you don't. 
+```{R}
+data$V238<-as.factor(data$V238) #social class 
+data$V240<-as.factor(data$V240) #sex
+```
+
+
+```{R}
+var.test(data$security_mean~data$V240) #F-test to compare two variances
+```
+
+Barlett's test can handle more than one IVs. 
+```{R}
+bartlett.test(data$security_mean~interaction(data$V240, data$V238), data) #bartlett test
+```
+
+Levine's test is the most common test of homogeneity. The *car* package is required.
+```{R}
+data$V240<-as.factor(data$V240)
+library(car)
+leveneTest(data$security_mean~data$V240, data)
+```
+
+###t-tests
+To conduct an independent t-test, we need to input the target formula, that is, to tell R what the independent and dependent variables are.  As shown below, we put the dependent variable on the left (i.e. security_mean), follow by "~" and then put the independent variable on the right (i.e. sex, V240). We need to indicate what data frame we are using in this hypothesis testing (i.e. "data").  Finally, the ```t.test()``` function allows you to choose whether the t-test assume equal variance or not. Since we found in the last section that the variances across the two groups were equal, we put ```var.equal=TRUE```.
+
+```{R}
+t.test(security_mean~V240, data = data, var.equal=TRUE)
+```
+
+The default test is two-sided/two-tailed, but users also have options to use one-sided/one-tailed test. For one-tailed test hypothesizing that true difference in means is greater than 0, use the additional statement ```alternative="greater"```. To test the hypothesis that true difference in means is less than 0, use the additional statement ```alternative="less"```. To adjust the confidence level, use the statement ```conf.level=```. If you forget what you should do, you may look up the document through google or ```?t.test```
+
+If you are conducting dependent t-test, you just need to list your repeated measures and add ```paired=TRUE```. Something like this:
+```t.test(data$prescore, data$postscore, paired=TRUE)```
+
+###One-way ANOVA
+To conduct ANOVA, simply replace ```t.test()``` with the ```aov()``` function. However, the function only returns sum of squares and degree of freedom. To obtain other statistics, we need to first assign an object to the function. Let's name it *anova_model*. The next step is to use ```summary()``` to obtain summary statistics. 
+
+Let's look at whether security subscale differ between people from different social class (V238). 
+
+
+
+```{R}
+anova <- aov(security_mean~V238, data = data)
+summary(anova)
+```
+
+You may also request diagnostic plots
+```{R}
+plot(anova) #diagnostic plots
+```
+
+###onw-way ANCOVA
+If you have a covariate or a blocking variable, you may simply add it to the formula.
+```{R}
+anova <- aov(security_mean~V238+caretake_mean, data = data) 
+summary(anova)
+```
+
+###post-hoc 
+To conduct post-hoc test, we need to examine the pairwise differences. The function ```pairwise.t.test()``` can be used when comparing pairs with no adjustment, bonferroni correction or Holm–Bonferroni correction method.    
+```{R}
+pairwise.t.test(data$security_mean, data$V238, p.adj = "none")
+pairwise.t.test(data$security_mean, data$V238, p.adj = "bonf")
+pairwise.t.test(data$security_mean, data$V238, p.adj = "holm")
+```
+
+To obtain mean for each groups:
+```{R}
+aggregate(data$security_mean, by=list(data$V238), FUN=mean, na.rm=TRUE)
+```
+
+To obtain adjusted means, *emmeans* is a great package. 
+```{R include=FALSE}
+library(emmeans)
+emmeans(anova, ~V238)
+```
+
+If Tukey's HSD test is desired, then a different function ```TukeyHSD``` needs to be used. If you don't have any covariates in your model (i.e., non-factor), you can simply write ```TukeyHSD(model_name)```. But since we have a covariate here, we need to tell the function which variable in the formula we are doing the posthoc. 
+```{R}
+TukeyHSD(anova, "V238", ordered=T) #if true, all differences will be positive
+```
+
+There are multiple ways to obtain effect sizes. Here is one example with the package *effectsize* 
+
+```{R}
+library(effectsize)
+effectsize::eta_squared(anova, ci=.95)
+effectsize::omega_squared(anova, ci=.95)
+effectsize::cohens_f(anova, ci=.95)
+```
+
+If you want to organize all outputs in one table, try the following:
+```{R}
+library(sjstats)
+sjstats::anova_stats(anova, digits=2)
+```
+
+###two-way ANOVA
+To conduct two-way ANOVA, you simply add your second IV to your formular. If you have more IVs, you add in the same manner. Let's change our DV to the caretake subscale (*caretake_mean*) demostrate a different example than our one-way. 
+
+```{R}
+anova2way <- aov(caretake_mean~V240*V238, data = data) #or
+anova2way <- aov(caretake_mean~V240+V238+V240:V238, data = data) 
+summary(anova2way)
+```
+
+**Practice**: Can you find the effect sizes using this model? Can you do a Tukey HSD post-hoc test?
+
+```{R}
+TukeyHSD(anova2way)
+```
+The post-hoc test results can get really messy when you have high number of group comparisons. We can plot them out. There are tons of ways to present an interaction plot. Here, we will introduce "faceting" from ggplot. Facets divide a plot into subplots based on a categorical variable (or multiple categorical variables).
+```{R}
+
+filter(data, !is.na(V238)) %>% #filter NA of social status so it doesn't appear on graph
+  filter(!is.na(caretake_mean)) %>% #this line is optional; ggplot will removes missing for DV.
+  ggplot()+
+  aes( x=V238, y = caretake_mean) +
+  geom_boxplot() +
+  facet_wrap(~V240 ) + 
+  xlab("Perceived Social Status") + 
+  ylab("Schwartz's Caretake Subscale")
+
+```
+
+The ```aov()``` function is for balanced design only. If you want to conduct a two-way ANOVA for unbalanced designs (e.g., Type III ANOVA), you may use ```Anova()``` in the *car* package. 
+```{r}
+anovaunbal<-aov(caretake_mean~V240*V238, data = data) 
+Anova(anovaunbal, type="III") #type III anova 
+```
+
+###Repeated ANOVA
+The World Value Survey does not have repeated measure data. But let's create a fake Time 2 measure for *caretake_mean*. 
+
+```{r}
+data$caretake_t1<-data$caretake_mean 
+data$caretake_t2<-data$excite_mean
+data$caretake_t3<-data$security_mean
+```
+
+Currently, we call the data form you have as a "wide form", that is, time 1 and time 2 scores belong to separate columns. You need to first transform your data to a "long form". But make sure you have given your participants a unique ID before you do so.  
+
+```{r}
+data_long<-gather(data, 
+            time, caretake_t1t2t3, caretake_t1, caretake_t2, caretake_t3,
+            factor_key = T)
+nrow(data)
+nrow(data_long)
+```
+
+
+Before conducting the tests, let's check assumptions. First, outleirs:
+```{R}
+library(rstatix) #for identify_outliers
+data_long %>%
+  group_by(time) %>%
+  identify_outliers(caretake_t1t2t3)
+```
+
+The output shows participants with extreme values. 
+
+Next, normality assumption. 
+```{R}
+data_long %>%
+  group_by(time) %>%
+  shapiro_test(caretake_t1t2t3)
+library(ggpubr) #similar to ggplot2
+ggqqplot(data_long,"caretake_t1t2t3", facet.by="time")
+```
+
+Assumption of sphericity does not need to be tested alone. Instead, you can use the ```anova_test``` function in the *rstatix* package to run the repeated measure tests. The results will display the Mauchly's test for sphericity and the sphericity corrected results. The output will displace two corrected results, Greenhouse-Geisser epsilon (GGe), and Huynh-Feldt epsilon (HFe).
+
+Now that we have a long form and we finished testing assumptions, we can do a repeated measure ANOVA. Let's assume that we want to see if sex (V240) differs on their *caretake* change over time. The format is the same, your repeated measure (*caretake_t1t2*) is your DV, so it appears on the left hand side of the formula. Sex (V240) is your IV, so it appears on the right hand side. ```Error(ID)``` helps identify who is being repeated here (i.e., the participants)
+
+
+```{R}
+rep_data<-select(data_long, ID, caretake_t1t2t3,time, V240)
+rep_data<-rep_data[complete.cases(rep_data),]
+repeated_aov<-anova_test(rep_data, dv=caretake_t1t2t3, wid=ID
+                         , within=time
+                         , between=V240
+                         )
+repeated_aov
+```
+To see the corrected solution:
+```{R}
+get_anova_table(repeated_aov)
+```
+
+The ```aov()``` function can also handle repeated measure, but the codes are not as straight forward and it doesn't produce spherity test.
+```{r}
+anova_within<-aov(caretake_t1t2t3~V240*time+Error(ID/V240),data_long) #when V240 is within-subj
+anova_within<-aov(caretake_t1t2t3~V240*time+Error(ID),data_long) #when V240 is between-subj
+summary(anova_within)
+```
+
+Post-hoc 
+```{R}
+#effect of sex on DV at each level of time
+sexeffect <- rep_data %>%
+  group_by(time) %>%
+  anova_test(dv = caretake_t1t2t3, wid = ID, between=V240) %>%
+  get_anova_table() %>%
+  adjust_pvalue(method = "bonferroni")
+sexeffect
+
+#effect of time on DV at each level of sex
+timeeffect <- rep_data %>%
+  group_by(V240) %>%
+  anova_test(dv = caretake_t1t2t3, wid = ID, within=time) %>%
+  get_anova_table() %>%
+  adjust_pvalue(method = "bonferroni")
+timeeffect
+
+```
+
+###Linear mixed model as an alternative to repeated ANOVA.
+
+Linear Mixed Model (LMM) can also deal with repeated data and is generally considered to be more powerful. It can be used if you have participants nested in groups (e.g., students in class, class in school), if you want to model multiple random effects for groups/participants, when you have unbalanced design, when you have covariates (random or fixed), etc.  We won't be able to cover the details of it, but here is the general form in case you want to pursue further: 
+
+
+```{R}
+library(lme4)
+fit<-lmer(caretake_t1t2t3~V240*time+(1|ID),data_long)  
+summary(fit)
+```
+
+In the above example, we only have model one random effect - separate slopes for each participant (ID). If you have nested data (e.g., participants nested in their age group-V242), you may add random effects to each grouping. 
+
+```{R}
+library(lme4)
+fit<-lmer(caretake_t1t2t3~V240*time+(1|V242)+(1|V242:ID),data_long)  
+summary(fit)
+```
+
+
+In Week 4 notes, we will cover some ways to compute simple slope/effects. Those methods apply to LMM as well. 
