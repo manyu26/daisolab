@@ -40,8 +40,8 @@ permalink: "/teaching/rsummer"
 * Conduct exploratory and confirmatory factor analysis
 
 ## Week 3 - Categorical IVs, Tables, and Plots
-* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/786064) 
-* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1r1pOtrWAUK_V-uXpGjvhSyDcRyUcqQsN/view?usp=sharing)
+* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/786064){:target="_blank"}
+* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1r1pOtrWAUK_V-uXpGjvhSyDcRyUcqQsN/view?usp=sharing){:target="_blank"}
 ### Learning objectives  
 * Use RMarkdown to run codes.
 * Conduct t-test/ANOVA analyses
@@ -51,8 +51,8 @@ permalink: "/teaching/rsummer"
 * Intro to linear mixed effects model.
 
 ## Week 4 - Some linear models 
-* [Week 4 Workshop notes and codes](https://rpubs.com/manyu26/789033)
-* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1ZVKUGobJbgMVodALq2soWdjdSqPiZHtY/view?usp=sharing)
+* [Week 4 Workshop notes and codes](https://rpubs.com/manyu26/789033){:target="_blank"}
+* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1ZVKUGobJbgMVodALq2soWdjdSqPiZHtY/view?usp=sharing){:target="_blank"}
 
 ### Learning objectives  
 * Conduct regression models (lm)
