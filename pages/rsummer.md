@@ -39,27 +39,29 @@ permalink: "/teaching/rsummer"
 * Find scale reliability
 * Conduct exploratory and confirmatory factor analysis
 
-## Week 3 - Conducting Basic Statistical analyses
-* Week 3 Workshop notes and codes  (to be added) 
-
+## Week 3 - Categorical IVs, Tables, and Plots
+* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/786064) 
+* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1r1pOtrWAUK_V-uXpGjvhSyDcRyUcqQsN/view?usp=sharing)
 ### Learning objectives  
-* Conduct basic t-test/ANOVA analyses
-* Conduct basic linear and logistic regression analyses
+* Use RMarkdown to run codes.
+* Conduct t-test/ANOVA analyses
+* Conduct post-hoc tests
+* Organize results into beautiful tables (e.g., gt, gtsummary)
 * Visualize results using ggplot.
-* ...
+* Intro to linear mixed effects model.
 
-## Week 4 - Structural Equation Modeling 
-* Week 4 Workshop notes and codes  (to be added)
+## Week 4 - Some linear models 
+* (Week 4 Workshop notes and codes)[https://rpubs.com/manyu26/789033]
+* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1ZVKUGobJbgMVodALq2soWdjdSqPiZHtY/view?usp=sharing)
 
 ### Learning objectives  
-* 
-* 
-* 
+* Conduct regression models (lm)
+* Conduct moderation models with simple slope analysis (emmeans)
+* Conduct mediation models (psych)
+* Conduct path model/SEM analysis (lavaan)
 
 ---
-## Additional topics
-...if we have time. If not, here are some great resources for you to self-learn!
-
+## Advanced Resources
 ### RMarkdown, knitr, and papaja
 * [R Markdown for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/){:target="_blank"} (Zaharchuk, 2021)
 * [papaja: Prepare APA journal articles with R Markdown](http://frederikaust.com/papaja/){:target="_blank"}  
