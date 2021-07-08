@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "R Learning Resources for Psychology Teachers and Students"
 subheadline: ""
-teaser: "This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette graduate students in summer 2021. All resources used in the workshop are shared/linked on this page."
+teaser: "This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette graduate students in summer 2021. All resources used in the workshop are shared/linked on this page. All materials are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise stated."
 header:
    image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
 permalink: "/teaching/rsummer"
