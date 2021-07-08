@@ -9,7 +9,7 @@ header:
 permalink: "/teaching/rsummer"
 ---
 
-This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette graduate students in summer 2021. All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website. 
+This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette graduate students in summer 2021. All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information. 
 
 ## Getting Started/Comprehensive Resources:
 * [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r){:target="_blank"} (Weston and Yee, 2017)
