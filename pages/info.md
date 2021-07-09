@@ -19,8 +19,6 @@ DAISO is developed by Dr. Manyu Li @ University of Louisiana at Lafayette.
 
 The Data-science-Application In SOcial and community psychology (DAISO) LAB focuses on improving data science in social/community psychology. In Cantonese, DAISO 大數（據）means Big Number or Big Data, highlighting the lab’s focus on analyzing big data and advancing data science in psychology.The name also recognizes my Hong Kong heritage and to pay tribute to the place that taught me the wonderful world of Mathematics and statistics! 
 
-[DAISO Research > ](https://manyu26.github.io/daisolab/research)
-{: .t30 .button .radius}
+[DAISO Research > ](https://manyu26.github.io/daisolab/research){: .t30 .button .radius}
 
-[Li's teaching > ](https://manyu26.github.io/daisolab/teaching)
-{: .t30 .button .radius}
+[Li's teaching > ](https://manyu26.github.io/daisolab/teaching){: .t30 .button .radius}
