@@ -21,5 +21,6 @@ The Data-science-Application In SOcial and community psychology (DAISO) LAB focu
 
 [DAISO Research > ](https://manyu26.github.io/daisolab/research)
 {: .t30 .button .radius}
+
 [Li's teaching > ](https://manyu26.github.io/daisolab/teaching)
 {: .t30 .button .radius}
