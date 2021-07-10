@@ -41,7 +41,7 @@ This is a collection of materials/resources used in the R workshop offered by Dr
 * Conduct exploratory and confirmatory factor analysis
 
 ## Week 3 - Categorical IVs, Tables, and Plots
-* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/786064){:target="_blank"}
+* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/789768){:target="_blank"}
 * [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1r1pOtrWAUK_V-uXpGjvhSyDcRyUcqQsN/view?usp=sharing){:target="_blank"}
 ### Learning objectives  
 * Use RMarkdown to run codes.
