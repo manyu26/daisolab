@@ -10,7 +10,7 @@ permalink: "/teaching/oer"
 ---
 
 ### OER Researcher and Evaluator
-With the funding from [Open Education Group](https://openedgroup.org/fellowship){:Target"_blank"} through the OER Research Fellow program, I conduct research on OER using theoretical frameworks including the [COUP Framework](https://openedgroup.org/coup){:Target"_blank"}. I am particularly interested in testing the effectiveness of the OER-enabled pedagogy program by assessing the improvement of students’ social-emotional learning and academic success outcome, and/or assess instructors’ change in teaching attitude/style after using such an open pedagogy.  
+With the funding from [Open Education Group](https://openedgroup.org/fellowship){:Target"_blank"} through the OER Research Fellow program, I conduct research on OER using theoretical frameworks including the [COUP Framework](https://openedgroup.org/coup){:Target"_blank"}. I am particularly interested in testing the effectiveness of the OER-enabled pedagogy program by assessing the improvement of students’ social-emotional learning and academic success outcome, and assessing instructors’ change in teaching attitude/style after using such an open pedagogy.
 
 ### OER Creator
 With the funding from LOUIS: LOUISiana Library Network [LOUIS’ Interactive OER for Dual Enrollment projectt through funding from the Department of Education](https://louislibraries.org/alearningla/programs/dual-enrollment){:Target"_blank"}, I am currently working with a team of psychology instructors to build a set of fully open, accessible OERs for students in dual enrollment introduction to psychology course. The final product will be in the format of Pressbook. 
