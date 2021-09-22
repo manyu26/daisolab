@@ -10,7 +10,7 @@ permalink: "/teaching/"
 ---
 
 
-## Courses I teach/taugh
+## Courses I teach/taught
 ### University of Pittsburgh
 * PSY 0035 Research Methods
 * PSY 0105 Social Psychology
