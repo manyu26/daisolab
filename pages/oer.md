@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Open Education Teaching and Research"
 subheadline: ""
-teaser: "I am committed to open education. Here is a summary of my roles in on open education resources (OER) with links to access my products."
+teaser: "I am committed to open education. Here is a summary of my roles in open education resources (OER) with links to access my products."
 header:
    image_fullwidth: "steve-harvey-_7S3tOs424o-unsplash.jpg"
 permalink: "/teaching/oer"
