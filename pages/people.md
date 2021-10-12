@@ -27,11 +27,15 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 
 * Cheyane Mitchell, B.S. in Psychology, Spelman College (Lab Manager)
 * Melanie Cohen, B.S. in Psychology, California Lutheran University 
+* Ashley Fromenthal, B.S. in Psychology, UL Lafayette
+* Brianna Sadighian, B.S. in Psychology, San Jose State University
 
 ### Current Undergraduate lab members 
 
-* Nadia Turki
 * Taylar Johnson, McNair Scholar
+* Brooklyn E. Paul
+* Nadia Turki
+* Sarah West
 
 ### Graduated members
 
