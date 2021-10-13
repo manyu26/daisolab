@@ -16,7 +16,7 @@ In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu L
 * Black, K., & Li*, M. (2020). Developing a Virtual Multicultural Intervention for University Students. Behavioral Sciences, 10(11), 168 - 178. doi:10.3390/bs10110168.
 * Li, M., Wang, Y., Stone, H., & Turki U, N. (2021). Teaching Introductory Chemistry Online: The Application of Socio-cognitive Theories to Improve Students’ Learning Outcomes. Education Sciences 11(3), 95-108. DOI: 10.3390/educsci11030095
 * Li, M., & Stone, H. N. (2018). A social network analysis of the impact of a teacher and student community on academic motivation in a science classroom.  Societies, 8(3), 68-75. DOI: 10.3390/soc8030068
-* Li, M., & van LieuG, S. (2018). Traditional and online faculty members’ use of classroom assessment techniques (CATs): A mixed-method study.  Journal of Instructional Research, 7(1), 90-99. DOI: 10.9743/JIR.2018.8. 
+* Li, M., & van Lieu, S. (2018). Traditional and online faculty members’ use of classroom assessment techniques (CATs): A mixed-method study.  Journal of Instructional Research, 7(1), 90-99. DOI: 10.9743/JIR.2018.8. 
 
 #### Relevant Grants:
 *	“Multimethod approaches to understanding the complexity of psychological, social and community influences on academic outcomes.”  Research Competitiveness Subprogram (RCS). Louisiana Board of Regents, State of Louisiana (PI, 100%, $138,364). Award number: LEQSF(2019-22)-RD-A-23; 2019-2022).
