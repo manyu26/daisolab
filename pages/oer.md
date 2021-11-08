@@ -10,6 +10,8 @@ permalink: "/teaching/oer"
 ---
 
 ### OER Researcher and Evaluator
+In collaboration wtih a polymer scientist, I will be conducting research on OER-enabled pedagogy to help develop and improve OERs (experiment simulator) for polymer science classrooms (recommended for funding by NSF; PI: Yu Wang; co-PI: Manyu Li). More updates to come! 
+
 With the funding from [Open Education Group](https://openedgroup.org/fellowship){:Target"_blank"} through the OER Research Fellow program, I conduct research on OER using theoretical frameworks including the [COUP Framework](https://openedgroup.org/coup){:Target"_blank"}. I am particularly interested in testing the effectiveness of the OER-enabled pedagogy program by assessing the improvement of students’ social-emotional learning and academic success outcome, and assessing instructors’ change in teaching attitude/style after using such an open pedagogy.
 
 ### OER Creator
