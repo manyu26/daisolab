@@ -15,8 +15,8 @@ gallery:
     - image_url: IMG_0001.jpg
     - image_url: 2022SWPA_Brookyln.jpg
     - image_url: 2022_PSYCDAY_Taylar.jpg
-    - image_url: MicrosoftTeams-image (3).jpg
-    - image_url: MicrosoftTeams-image (4).jpg
+    - image_url: 2022SWPA_Ashley.jpg
+    - image_url: 2022SWPA_Ashley (2).jpg
     
 ---
 ### Lab Mentor
