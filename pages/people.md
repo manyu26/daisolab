@@ -17,7 +17,7 @@ gallery:
     - image_url: 2022_PSYCDAY_Taylar.jpg
     - image_url: 2022SWPA_Ashley.jpg
     - image_url: 2022SWPA_Ashley (2).jpg
-    
+
 ---
 ### Lab Mentor
 
