@@ -35,17 +35,14 @@ permalink: "/teaching/"
 ### Teaching Awards:
 
 * <a href="https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards" target="_blank">2021-22 Outstanding Faculty Advisor Awards</a>, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
-
 * <a href="https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li" target="_blank">2020 Outstanding Master's Mentor</a>, nominated by graduate student, K. Black.
-
-
 * <a href="https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4" target="_blank">2019 APA CABE Teaching Resources Award</a> 
-
 * <a href="https://teachpsych.org/page-1610199" target="_blank">2018 APA STP Instructional Resource Award</a> 
+* <a href="https://teachpsych.org/SoTLGrant" target="_blank">2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant</a> 
+* <a href="https://manyu26.github.io/daisolab/teaching/oer" target="_blank">Other Funded Open Educational Resources (OER) works</a> 
 
-* <a href="https://manyu26.github.io/daisolab/teaching/oer" target="_blank">2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant</a> 
 
-* <a class="radius button small" href="">Check out my funded open education works</a>
+<a class="radius button small" href="">Check out my funded open education works</a>
 
 ### Teaching Certification:
 
