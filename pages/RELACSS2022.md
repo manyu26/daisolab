@@ -13,63 +13,20 @@ This is a collection of materials/resources used in the RELACSS beginner worksho
 
 All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information. 
 
-## Getting Started/Comprehensive Resources:
-* [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r){:target="_blank"} (Weston and Yee, 2017)
-* [R Tutorials](https://debyeeneuro.com/r-tutorials/){:target="_blank"} slides and resources by Weston and Yee (2016, 2017)
-* [R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){:target="_blank"} e-text (Li, 2021)
-* [Using R for Psychological Research](http://personality-project.org/r/r.guide.html){:target="_blank"} by The Personality Project
-* and many many more... 
+![RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring!](/images/RELACSSflyer.png "RELACSS Program Overview").
 
-## Week 1 - Basic R knowledge 
-* [Week 1 Workshop notes and codes](https://colab.research.google.com/drive/1LYQIwPKewYRPKejuf3h7MryjLbQi7GKX?usp=sharing){:target="_blank"} (powered by [Google Research Colaborartory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index"){:target="_blank"} no installation is required to run codes) 
 
-### Learning Objectives  
-* define/describe basic concepts/components in R, including objects, class, vectors, factors, indexing, data frames, list, and matrices. 
-* identify basic operators and functions.
-* install and request packages. 
-* subset data frames, select columns/rows from data frames and remove unwanted samples from data.
-* create new variables and recode variables.
 
-### Homework:
-* Install and start RStudio, set a working directory, and import a *.csv* file as a data frame. You may use your own data file or the sample data file I share in our group email. Ask peer mentor if you have any questions. If they are not resolved, we will discuss the problems at the beginning of Week 2. Consult [Chapter 1 and 2 of Li (2021) R Programming for Psychology Teachers and Students](https://louis.oercommons.org/courseware/lesson/1310/overview){:target="_blank"} 
+## Call for Applications
 
-## Week 2 - Psychometrics; Variable Manipulation
-* [Week 2 Workshop notes and codes](https://colab.research.google.com/drive/1Lv90b6-vp1fS2JtLILeCAruuvs2Y3SWV?usp=sharing){:target="_blank"}
+**Overview of the Program.** Calling all social science students! Data analysis is essential to the understanding of important social science phenomena. The rising availability of big data also shifts how social scientists conduct research. Knowing more about data analysis helps students prepare for advanced studies and graduate school. Join the RELACSS workshop series to learn about basic data analytics in social science using R programming, a computer programming language commonly used by social scientists. 
 
-### Learning objectives  
-* Reverse scale items
-* Compute scale scores
-* Find scale reliability
-* Conduct exploratory and confirmatory factor analysis
+After participating in the workshop, students will be able to
+* identify basic data analytic steps;
+* explore a real-world, open cross-cultural dataset and formulate testable research questions;* interpret data analysis results;
+* write simple R codes to execute the data tasks.
 
-## Week 3 - Categorical IVs, Tables, and Plots
-* [Week 3 Workshop notes and codes](https://rpubs.com/manyu26/789768){:target="_blank"}
-* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1r1pOtrWAUK_V-uXpGjvhSyDcRyUcqQsN/view?usp=sharing){:target="_blank"}
-### Learning objectives  
-* Use RMarkdown to run codes.
-* Conduct t-test/ANOVA analyses
-* Conduct post-hoc tests
-* Organize results into beautiful tables (e.g., gt, gtsummary)
-* Visualize results using ggplot.
-* Intro to linear mixed effects model.
+**Eligibility**: All social science students at UL Lafayette, regardless of years in college and past experiences are invited to participate. No prior experiences are required. Social Science majors at UL Lafayette include anthropology, communications, communicative disorders, criminal justice, human development and family science (previously CAFS), political science, psychology, and sociology. Students who are interested in social science research and data analytics but are not social science majors may also be considered.  
 
-## Week 4 - Some linear models 
-* [Week 4 Workshop notes and codes](https://rpubs.com/manyu26/789158){:target="_blank"}
-* [Download .Rmd file to reproduce the notes](https://drive.google.com/file/d/1ZVKUGobJbgMVodALq2soWdjdSqPiZHtY/view?usp=sharing){:target="_blank"}
+The free workshop series is a 6-week program taught by Dr. Manyu Li, Assistant Professor of Psychology. Each session is 1 hour. The meeting time will be determined by the applicants' availability. The meeting location is Girard Hall (room TBD).  RELACSS is offered by the DAISO lab managed by Dr. Manyu Li. RELACSS stands for Rapport-building, Equitable, Learner-centered, Authentic Computational Social Science beginner program. The goal of the program is to support students to easily step into the world of Computational Social Science.
 
-### Learning objectives  
-* Conduct regression models (lm)
-* Conduct moderation models with simple slope analysis (emmeans)
-* Conduct mediation models (psych)
-* Conduct path model/SEM analysis (lavaan)
-
----
-## Advanced Resources
-### RMarkdown, knitr, and papaja
-* [R Markdown for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/){:target="_blank"} (Zaharchuk, 2021)
-* [papaja: Prepare APA journal articles with R Markdown](http://frederikaust.com/papaja/){:target="_blank"}  
-* [R-eproducible Psychological Science](https://psu-psychology.github.io/r-bootcamp-2019/talks/r-eproducible-science.html){:target="_blank"} 
-
-### Multi-level Modeling/Mixed Effects Model (lme4) 
-* [Chapter 10: Multilevel Models in "Just Enough R"](https://benwhalley.github.io/just-enough-r/multilevel-models.html){:target="_blank"}  
-* [R Bootcamp: Introduction to Multilevel Model and Interactions](https://quantdev.ssri.psu.edu/tutorials/r-bootcamp-introduction-multilevel-model-and-interactions){:target="_blank"}  

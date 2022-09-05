@@ -21,9 +21,9 @@ permalink: "/teaching/"
 * PSYC 209 Introduction to Psychology
 * PSYC 330 Introduction to Social Psychology
 * PSYC 340 Theories of Personality 
-* PSYC 513 Quantitative Models (Graduate levle)
-* PSYC 538 Advanced Social Psychology (Graduate Level)
-* [Free R workshop for social science students (2021)](https://manyu26.github.io/daisolab/teaching/rsummer)
+* PSYC 513 Quantitative Models 
+* PSYC 538 Advanced Social Psychology 
+* [R workshop for social science students (2021)](https://manyu26.github.io/daisolab/teaching/rsummer)
 * [RELACSS Computational Social Science beginner workshop (2022)](https://manyu26.github.io/daisolab/teaching/RELACSS2022)
 
 
@@ -46,4 +46,4 @@ permalink: "/teaching/"
 * [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
 * [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
 * Applying the Quality Matters Rubrics (APPQMR)
-<div data-iframe-width="50" data-iframe-height="90" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

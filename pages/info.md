@@ -23,3 +23,10 @@ The Data-science Application in SOcial and community psychology (DAISO) LAB focu
 
 [Li's teaching > ](https://manyu26.github.io/daisolab/teaching){: .t30 .button .radius}
 
+### Data Analytics Workshop
+
+The DAISO lab offers recurring R data analytic workshops for UL Lafayette social science students. The workshop series is taught by Dr. Manyu Li and are completely free. Check out past and current workshops:
+
+[2022 RELACSS Beginner Computational Social Science workshop > ](https://manyu26.github.io/daisolab/teaching/RELACSS2022){: .t30 .button .radius}
+
+[2021 R programming for social science workshop > ](https://manyu26.github.io/daisolab/teaching/rsummer){: .t30 .button .radius}
