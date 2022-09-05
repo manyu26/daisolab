@@ -33,19 +33,23 @@ permalink: "/teaching/"
 
 
 ### Teaching Awards:
-* <a href="https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards" target="_blank">2022 Outstanding Faculty Advisor Awards 2021-2022</a>, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
 
-[2022 Outstanding Faculty Advisor Awards 2021-2022](https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards){:Target"_blank"}, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
-* [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}, nominated by graduate student, K. Black.
-* [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
-* [2018 APA STP Instructional Resource Award](https://teachpsych.org/page-1610199){:Target"_blank"}
-* [2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant](https://teachpsych.org/SoTLGrant){:Target"_blank"}
+* <a href="https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards" target="_blank">2021-22 Outstanding Faculty Advisor Awards</a>, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
 
-<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my funded open education works</a>
+* <a href="https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li" target="_blank">2020 Outstanding Master's Mentor</a>, nominated by graduate student, K. Black.
+
+
+* <a href="https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4" target="_blank">2019 APA CABE Teaching Resources Award</a> 
+
+* <a href="https://teachpsych.org/page-1610199" target="_blank">2018 APA STP Instructional Resource Award</a> 
+
+* <a href="https://manyu26.github.io/daisolab/teaching/oer" target="_blank">2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant</a> 
+
+* <a class="radius button small" href="">Check out my funded open education works</a>
 
 ### Teaching Certification:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+* Applying the Quality Matters Rubrics <div data-iframe-width="50" data-iframe-height="90" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 * [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
 * [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
 
