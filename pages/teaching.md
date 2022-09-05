@@ -28,9 +28,8 @@ permalink: "/teaching/"
 
 
 ### UL System
-* Designing Accessible Teaching Materials in the Digital World. A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
-* Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System.
-
+* <a href="https://ulstraining.latech.edu/course/info.php?id=66" target="_blank">Designing Accessible Teaching Materials in the Digital World.</a> A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
+* <a href="https://ulstraining.latech.edu/course/info.php?id=68" target="_blank"> Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. </a> A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
 
 ### Teaching Awards:
 
