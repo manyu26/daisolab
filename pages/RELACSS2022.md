@@ -17,4 +17,6 @@ All resources used in the workshop are shared/linked on this page. All weekly no
 [Call for applications (Due 9/19/2022 at noon) > ](https://manyu26.github.io/daisolab/teaching/RELACSS2022callapp)
 {: .t30 .button .radius}
 
-<img src="https://github.com/manyu26/daisolab/blob/master/images/RELACSSflyer.png?raw=true" alt="RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring" itemprop="image" width="515" height="667">
+<a href="https://manyu26.github.io/daisolab/teaching/RELACSS2022callapp">
+   <img src="https://github.com/manyu26/daisolab/blob/master/images/RELACSSflyer.png?raw=true" alt="RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring" itemprop="image" width="515" height="667">
+</a>
