@@ -33,7 +33,9 @@ permalink: "/teaching/"
 
 
 ### Teaching Awards:
-* [2022 Outstanding Faculty Advisor Awards 2021-2022](https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards), nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
+* <a href="https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards" target="_blank">2022 Outstanding Faculty Advisor Awards 2021-2022</a>, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
+
+[2022 Outstanding Faculty Advisor Awards 2021-2022](https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards){:Target"_blank"}, nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
 * [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}, nominated by graduate student, K. Black.
 * [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
 * [2018 APA STP Instructional Resource Award](https://teachpsych.org/page-1610199){:Target"_blank"}
