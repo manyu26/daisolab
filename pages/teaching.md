@@ -43,7 +43,7 @@ permalink: "/teaching/"
 
 ### Teaching Certification:
 
-* Applying the Quality Matters Rubrics <div data-iframe-width="50" data-iframe-height="90" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 * [ULearn Certified Online Teacher](https://distancelearning.louisiana.edu/node/35){:Target"_blank"}
 * [ULearn Certified Course Designer](https://distancelearning.louisiana.edu/node/36){:Target"_blank"}
-
+* Applying the Quality Matters Rubrics (APPQMR)
+<div data-iframe-width="50" data-iframe-height="90" data-share-badge-id="29ee7336-f9ee-426b-b308-48ced9459529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
