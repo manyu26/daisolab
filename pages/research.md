@@ -24,11 +24,11 @@ permalink: "/research/"
 * Social media/web crawling (Li et al., 2020)
 
 ### Research Topics:
-* Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &; Wozencraft, 2018-2019 PI grant; Li, 2021, PI grant)
-* Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li, Lin, Li &; Frieze, 2019)
-* Education, e.g., learning, instruction, academic outcomes (e.g., Li &; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
-* Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
+* Sense of belonging and inclusiveness in learning and educational settings (e.g., Li, 2022; Li &; Stone, 2018; Li, 2018-2019 PI grant)
 * Social media behaviors (Li et al., 2020; Johnson, Li, Mitchell, submitted)
+* Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li et al., 2019; Li et al., 2020)
+* Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
+* Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &; Wozencraft, 2018-2019 PI grant)
 
 ### How to get involved
 Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. 
