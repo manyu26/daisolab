@@ -39,10 +39,8 @@ permalink: "/teaching/"
 * <a href="https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4" target="_blank">2019 APA CABE Teaching Resources Award</a> 
 * <a href="https://teachpsych.org/page-1610199" target="_blank">2018 APA STP Instructional Resource Award</a> 
 * <a href="https://teachpsych.org/SoTLGrant" target="_blank">2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant</a> 
-* <a href="https://manyu26.github.io/daisolab/teaching/oer" target="_blank">Other Funded Open Educational Resources (OER) works</a> 
 
-
-<a class="radius button small" href="">Check out my funded open education works</a>
+<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/oer">Check out my funded open education works</a>
 
 ### Teaching Certification:
 
