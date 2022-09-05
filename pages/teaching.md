@@ -23,17 +23,18 @@ permalink: "/teaching/"
 * PSYC 340 Theories of Personality 
 * PSYC 513 Quantitative Models (Graduate levle)
 * PSYC 538 Advanced Social Psychology (Graduate Level)
-* Free, non-credit summer R workshop 
+* [Free R workshop for social science students (2021)](https://manyu26.github.io/daisolab/teaching/rsummer)
+* [RELACSS Computational Social Science beginner workshop (2022)](https://manyu26.github.io/daisolab/teaching/RELACSS2022)
 
-<a class="radius button small" href="https://manyu26.github.io/daisolab/teaching/rsummer">Check out my summer R workshop materials ›</a>
 
 ### UL System
-* Designing Accessible Teaching Materials in the Digital World. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
-* Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. A one-week course for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System.
+* Designing Accessible Teaching Materials in the Digital World. A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System. 
+* Incorporating Low-cost Augmented/Virtual Reality Technologies in Education. A one-week course (2020) for the UL System Bridging the Digital Divide for UL System faculty and staff. University of Louisiana System.
 
 
 ### Teaching Awards:
-* [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}
+* [2022 Outstanding Faculty Advisor Awards 2021-2022](https://studentsuccess.louisiana.edu/about-us/advising/advisor-awards), nominated by undergraduate students J. Venable, J. Wilder, and M. Wilkerson.
+* [2020 Outstanding Master's Mentor](https://gradschool.louisiana.edu/blog/meet-outstanding-masters-mentor-dr-manyu-li){:Target"_blank"}, nominated by graduate student, K. Black.
 * [2019 APA CABE Teaching Resources Award](https://www.apa.org/about/awards/ptcc-teaching-resources?tab=4){:Target"_blank"}
 * [2018 APA STP Instructional Resource Award](https://teachpsych.org/page-1610199){:Target"_blank"}
 * [2017 APA STP Scholarship of Teaching and Learning (SoTL) Research Grant](https://teachpsych.org/SoTLGrant){:Target"_blank"}

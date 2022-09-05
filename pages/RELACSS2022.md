@@ -1,15 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "R Learning Resources for Psychology Teachers and Students"
+title: "RELACSS Beginner Computational Social Science Workshop 2022"
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "windows-Pmu6-i4iyNE-unsplash.jpg"
-permalink: "/teaching/rsummer"
+permalink: "/teaching/RELACSS2022"
 ---
 
-This is a collection of materials/resources used in the R workshop offered by Dr. Manyu Li for UL Lafayette social science students in 2021. All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information. 
+This is a collection of materials/resources used in the RELACSS beginner workshop offered by Dr. Manyu Li for UL Lafayette social science students in 2022. Materials are designed with the interactive shiny app with the learnr package. 
+
+All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information. 
 
 ## Getting Started/Comprehensive Resources:
 * [Learning to Work With R](https://www.psychologicalscience.org/observer/learning-to-work-with-r){:target="_blank"} (Weston and Yee, 2017)
