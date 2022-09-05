@@ -15,9 +15,9 @@ permalink: "/research/"
 
 
 ### Research Methods/Analytic approaches:
-* Bayesian approaches; machine learning (Li, 2019-2022 PI grant)
+* Bayesian approaches; machine learning (Li, 2019-2023 PI grant)
 * Automated Text Analysis (Li, 2018-2019 PI grant; Li, accepted)
-* Social network analysis (Li & Stone, 2018; Li. 2019-2022 PI grant)
+* Social network analysis (Li & Stone, 2018; Li. 2019-2023 PI grant)
 * Mixed modeling (Li, 2018 - 2019)
 * Latent profile/class analysis (Li, Lin &; Maer, 2020; Lin, Li et al., 2020)
 * Structural equation modeling (e.g., Li &; Frieze, 2016)
@@ -31,7 +31,7 @@ permalink: "/research/"
 * Social media behaviors (Li et al., 2020; Johnson, Mitchell, Turki, and Li, on going)
 
 ### How to get involved
-Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. One two-year full stipend and tuition waiver graduate research assistantship is available (terminal master research degree).
+Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. 
 
 [Apply to work with me in our research-focused Master's program > ](https://psychology.louisiana.edu/programs/masters-program)
 {: .t30 .button .radius}
