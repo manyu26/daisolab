@@ -28,7 +28,7 @@ permalink: "/research/"
 * Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li, Lin, Li &; Frieze, 2019)
 * Education, e.g., learning, instruction, academic outcomes (e.g., Li &; Stone, 2018; Li, 2018-2019 PI grant; Li, 2017 PI grant)
 * Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
-* Social media behaviors (Li et al., 2020; Johnson, Mitchell, Turki, and Li, on going)
+* Social media behaviors (Li et al., 2020; Johnson, Li, Mitchell, submitted)
 
 ### How to get involved
 Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. 
