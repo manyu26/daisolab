@@ -18,7 +18,9 @@
   url: "/teaching/"
   side: left
   dropdown:
-  - title: "R Programming Summer Workshop 2021"
+  - title: "Beginner Computational Social Science Workshop 2022"
+    url: "/teaching/RELACSS2022"
+  - title: "R Programming for Social Science Workshop 2021"
     url: "/teaching/rsummer"
   - title: "Open Education Teaching and Research"
     url: "/teaching/oer"
