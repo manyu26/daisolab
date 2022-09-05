@@ -14,7 +14,7 @@ This is a collection of materials/resources used in the RELACSS beginner worksho
 
 All resources used in the workshop are shared/linked on this page. All weekly notes and codes are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information. 
 
-<img src="https://github.com/manyu26/daisolab/blob/master/images/RELACSSflyer.png?raw=true" alt="RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring" itemprop="image">
+<img src="https://github.com/manyu26/daisolab/blob/master/images/RELACSSflyer.png?raw=true" alt="RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring" itemprop="image" width="515" height="667">
 
 
 ## Call for Applications
