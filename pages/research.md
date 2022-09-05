@@ -33,9 +33,12 @@ permalink: "/research/"
 ### How to get involved
 Interested scholars and students are encouraged to email Dr. Manyu Li at manyu.li@louisiana.edu. Undergraduate and graduate independent study opportunities (with possibilities to present at national conferences and publish in academic journals!) are available. 
 
-[Apply to work with me in our research-focused Master's program > ](https://psychology.louisiana.edu/programs/masters-program)
-{: .t30 .button .radius}
 
 [Check out my Psychological Place Attachment Scale (PPAS) > ](https://manyu26.github.io/daisolab/research/ppas)
 {: .t30 .button .radius}
 
+[Check out my Instructional and Assessment Research Record > ](https://manyu26.github.io/daisolab/research/assessment)
+{: .t30 .button .radius}
+
+[Apply to work with me in our research-focused Master's program > ](https://psychology.louisiana.edu/programs/masters-program)
+{: .t30 .button .radius}
