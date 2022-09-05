@@ -7,12 +7,6 @@
 - title: Research
   url: "/research/"
   side: left
-%  dropdown:
-%    - title: "Instructional Assessment Research"
-%      url: "/research/assessment/"
-%    - title: "Psychological Place Attachment Scale (PPAS)"
-%      url: "/research/ppas"
-
 
 - title: "Teaching"
   url: "/teaching/"
