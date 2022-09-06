@@ -12,6 +12,8 @@
   url: "/teaching/"
   side: left
   dropdown:
+  - title: "Teaching Overview"
+    url: "/teaching/"
   - title: "2022 Beginner Computational Social Science Workshop"
     url: "/teaching/RELACSS2022"
   - title: "2021 R Programming for Social Science Workshop"
