@@ -25,6 +25,6 @@ The free workshop series is a 6-week program taught by Dr. Manyu Li, Assistant P
 
 RELACSS stands for Rapport-building, Equitable, Learner-centered, Authentic Computational Social Science beginner program. The goal of the program is to support students to easily step into the world of Computational Social Science.
 
-Visit <a href="http://bit.ly/RELACSS/" target="_blank">bit.ly/RELACSS</a> to learn more about the program and to access the brief application form. **The deadline to apply is 9/19/2022(Mon) at noon**. For questions, please email Dr. Manyu Li at manyu.li@louisiana.edu
+Visit <a href="http://bit.ly/RELACSS" target="_blank">bit.ly/RELACSS</a> to learn more about the program and to access the brief application form. **The deadline to apply is 9/19/2022(Mon) at noon**. For questions, please email Dr. Manyu Li at manyu.li@louisiana.edu
 
 <img src="https://github.com/manyu26/daisolab/blob/master/images/RELACSSflyer.png?raw=true" alt="RELACSS is for beginners. RELACSS is to help students learn R, and RELACSS is not boring" itemprop="image" width="515" height="667">
