@@ -16,7 +16,8 @@ permalink: "/teaching/RELACSS2022callapp"
 
 After participating in the workshop, students will be able to
 * identify basic data analytic steps;
-* explore a real-world, open cross-cultural dataset and formulate testable research questions;* interpret data analysis results;
+* explore a real-world, open cross-cultural dataset and formulate testable research questions;
+* interpret data analysis results;
 * write simple R codes to execute the data tasks.
 
 **Eligibility**: All social science students at UL Lafayette, regardless of years in college and past experiences are invited to participate. **No prior experiences are required.** Social Science majors at UL Lafayette include anthropology, communications, communicative disorders, criminal justice, human development and family science (previously CAFS), political science, psychology, and sociology. Students who are interested in social science research and data analytics but are not social science majors may also be considered.  
