@@ -22,7 +22,7 @@ By the end of the module, learners will be able to
 * state one example of how social scientist solves research question through data analysis;
 * identify the role of data analysis in social science
 
-Access [Module 1 Lesson]() on shinyapps via web browser (no installation required)
+Access [Module 1 Lesson](https://daisolab.shinyapps.io/learnr_Module1/) on shinyapps via web browser (no installation required)
 
 ## Module 2 (Week 2 - 3) - *Trying it out* 
 <span style="background-color: #E3E3E3;font-size:1.2em" > Analyzing data with precooked R codes</span>
@@ -67,6 +67,10 @@ By the end of the module, learners will be able to
 
 
 ------------
+
+**Funding Source**: The program is sponsored by the Board of Regents Louisiana Research Competitiveness Subprogram (RCS) on understanding students' STEM learning awarded to Dr. Manyu Li.  
+
+-------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
