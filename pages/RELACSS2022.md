@@ -34,9 +34,9 @@ By the end of the module, learners will be able to
 * run existing R codes to solve research questions;
 * interpret the results of the analysis performed
 
-*Coming soon*: Access [Module 2a Lesson]() 
+Access [Module 2a Lesson]() on shinyapps via web browser (no installation required)
 
-*Coming soon*: Access [Module 2b Lesson]() 
+*Coming soon*: Access [Module 2b Lesson](https://daisolab.shinyapps.io/learnr_Module2a/) 
 
 
 ## Module 3 (Week 4) - *Changing the game*
