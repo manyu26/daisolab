@@ -48,7 +48,7 @@ By the end of the module, learners will be able to
 * Repeat the data analysis process from Module 2 with modified research questions;
 * Interpret the results of the analysis performed
 
-*Coming soon*: Access <a href="http://daisolab.shinyapps.io/learnr_Module3" target="_blank">Module 3 Lesson</a> on shinyapps via web browser (no installation required)
+Access <a href="http://daisolab.shinyapps.io/learnr_Module3" target="_blank">Module 3 Lesson</a> on shinyapps via web browser (no installation required)
 
 ## Module 4 (Week 5 - 6) - *Taking charge*
 <span style="background-color: #E3E3E3;font-size:1.2em"> Creating data analysis plan and codes from scratch </span>
