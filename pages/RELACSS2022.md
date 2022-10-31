@@ -59,7 +59,7 @@ By the end of the module, learners will be able to
 * write and run R codes to administer the data analysis plan; 
 * present the findings and interpretation of the results
 
-*Coming soon*: Access <a href="http://daisolab.shinyapps.io/learnr_Module4a" target="_blank">Module 4a Lesson</a> on shinyapps via web browser (no installation required)
+Access <a href="http://daisolab.shinyapps.io/learnr_Module4" target="_blank">Module 4a Lesson</a> on shinyapps via web browser (no installation required)
 
 *Coming soon*: Access <a href="http://daisolab.shinyapps.io/learnr_Module4b" target="_blank">Module 4b Lesson</a> on shinyapps via web browser (no installation required)
 
