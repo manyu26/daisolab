@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "PAMM"
-subheadline: "Psychology Academic Mentoring Matters (PAMM)"
+title: "Psychology Academic Mentoring Matters (PAMM)"
+subheadline: "Peer-mentoring for success"
 teaser: 
 header:
    image_fullwidth: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
