@@ -20,7 +20,9 @@
     url: "/teaching/rsummer"
   - title: "Open Education Teaching and Research"
     url: "/teaching/oer"
-
+  - title: "Psychology Academic Mentoring Matters (PAMM)"
+    url: "/teaching/pamm"
+    
 - title: "Search"
   url: "/search/"
   side: right
