@@ -61,7 +61,6 @@ By the end of the module, learners will be able to
 
 Access <a href="http://daisolab.shinyapps.io/learnr_Module4" target="_blank">Module 4a Lesson</a> on shinyapps via web browser (no installation required)
 
-*Coming soon*: Access <a href="http://daisolab.shinyapps.io/learnr_Module4b" target="_blank">Module 4b Lesson</a> on shinyapps via web browser (no installation required)
 
 <br/><br/><br/><br/><br/><br/>
 
