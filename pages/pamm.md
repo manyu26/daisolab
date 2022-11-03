@@ -5,7 +5,6 @@ title: "Psychology Academic Mentoring Matters"
 subheadline: "Peer-mentoring for success"
 teaser: 
 header:
-   image_fullwidth: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
 permalink: "/teaching/pamm"
 ---
 
