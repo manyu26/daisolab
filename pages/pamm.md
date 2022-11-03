@@ -10,7 +10,7 @@ permalink: "/teaching/pamm"
 ---
 
 
-## What is Psychology Academic Mentoring Matters (PAMM)
+### What is Psychology Academic Mentoring Matters (PAMM)
 
 The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students whom have already taken the classes in psychology and earned A's in the classes. 
 
@@ -20,7 +20,7 @@ President - Hiba Fazal-ur-Rehman
 Vice President - Lila Mount
 Faculty Advisor - Dr. Manyu Li
 
-## Mentoring schedule and meeting location
+### Mentoring schedule and meeting location
 
 
 <img align="right", src="https://github.com/manyu26/daisolab/blob/master/images/PXL_20221103_164246477.jpg?raw=true" alt="student lounge in Girard second floor" itemprop="image" width="360" height="467">
