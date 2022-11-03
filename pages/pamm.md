@@ -18,6 +18,8 @@ The schedule can be found below:
 
 
 Mentors meet mentees regularly at the psychology department student lounge (second floor of Girard Hall across from room 203). Just walk in during the scheduled hours. No registration is required. 
+
+
 <img src="https://github.com/manyu26/daisolab/blob/master/images/PXL_20221103_164246477.jpg?raw=true" alt="student lounge in Girard second floor" itemprop="image" width="360" height="467">
 
 
