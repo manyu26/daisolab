@@ -11,7 +11,7 @@ permalink: "/teaching/pamm"
 
 ### What is Psychology Academic Mentoring Matters
 
-The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students whom have already taken the classes in psychology and earned A's in the classes. 
+The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students who have already taken the classes in psychology and earned A's in the classes. 
 
 **2022-2023 PAMM Officers**
 
