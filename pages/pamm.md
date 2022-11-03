@@ -6,7 +6,7 @@ subheadline: "Psychology Academic Mentoring Matters (PAMM)"
 teaser: 
 header:
    image_fullwidth: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
-permalink: "/teaching/PAMM"
+permalink: "/teaching/pamm"
 ---
 
 
