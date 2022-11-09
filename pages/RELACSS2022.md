@@ -61,7 +61,7 @@ By the end of the module, learners will be able to
 
 Access <a href="http://daisolab.shinyapps.io/learnr_Module4" target="_blank">Module 4 Lesson</a> on shinyapps via web browser (no installation required)
 
-Access <a href="[http://daisolab.shinyapps.io/learnr_Module4](https://daisolab.shinyapps.io/learnr_Module4a_countrycomparison/)" target="_blank">2022 RELACSS participant products and presention</a> on shinyapps via web browser (no installation required)
+Access <a href="https://daisolab.shinyapps.io/learnr_Module4a_countrycomparison/" target="_blank">2022 RELACSS participant products and presention</a> on shinyapps via web browser (no installation required)
 
 
 <br/><br/><br/><br/><br/><br/>
