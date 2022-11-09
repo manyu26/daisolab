@@ -67,7 +67,7 @@ Access <a href="https://daisolab.shinyapps.io/learnr_Module4a_countrycomparison/
 <br/><br/><br/><br/><br/><br/>
 
 
-<img src="https://github.com/manyu26/daisolab/blob/master/images/20221108_175917-COLLAGE.jpg?raw=true" alt="RELACSS 2022 participants photo"   width="50"/>
+<img src="https://github.com/manyu26/daisolab/blob/master/images/20221108_175917-COLLAGE.jpg?raw=true" alt="RELACSS 2022 participants photo"   width="500"/>
 
 
 RELACSS 2022 Participants
