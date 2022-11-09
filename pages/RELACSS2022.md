@@ -67,6 +67,10 @@ Access <a href="https://daisolab.shinyapps.io/learnr_Module4a_countrycomparison/
 <br/><br/><br/><br/><br/><br/>
 
 
+RELACSS 2022 Participants
+<img src="https://github.com/manyu26/daisolab/blob/master/images/20221108_175917-COLLAGE.jpg?raw=true" alt="RELACSS 2022 participants photo"   width="700"/>
+
+
 ------------
 
 **Funding Source**: The program is sponsored by the Board of Regents Louisiana Research Competitiveness Subprogram (RCS) on understanding students' STEM learning awarded to Dr. Manyu Li.  
