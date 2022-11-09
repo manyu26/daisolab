@@ -12,7 +12,7 @@ permalink: "/teaching/RELACSS2022"
 
 This is a collection of materials/resources used in the RELACSS beginner workshop offered by Dr. Manyu Li for UL Lafayette social science students in 2022 (see [Call for Applications](https://manyu26.github.io/daisolab/teaching/RELACSS2022callapp)). Materials are designed with the interactive shiny app with the learnr package. All resources used in the workshop are shared/linked on this page. **No software download is needed**. The link under each module will bring you to the Shiny learnr lesson on shinyapps web.
 
-All lessons are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information.
+All lessons are developed by Dr. Manyu Li licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information.
 
 ## Module 1 (Week 1) - *Checking it out*
 <span style="background-color: #E3E3E3;font-size:1.2em"> Taking a bird-eye view of the social science research inquiry process </span>
@@ -60,6 +60,8 @@ By the end of the module, learners will be able to
 * present the findings and interpretation of the results
 
 Access <a href="http://daisolab.shinyapps.io/learnr_Module4" target="_blank">Module 4 Lesson</a> on shinyapps via web browser (no installation required)
+
+Access <a href="[http://daisolab.shinyapps.io/learnr_Module4](https://daisolab.shinyapps.io/learnr_Module4a_countrycomparison/)" target="_blank">2022 RELACSS participant products and presention</a> on shinyapps via web browser (no installation required)
 
 
 <br/><br/><br/><br/><br/><br/>
