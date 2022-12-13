@@ -8,7 +8,7 @@ header:
     image_fullwidth: "zdenek-machacek-FvTn9Dlv39A-unsplash.jpg"
 ---
 
-In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative studies or mixed-method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn statistics and research methods to conduct research relating to these topics. Students will also have the opportunities to present at national conferences and apply for scholarships.  Since 2017, five of our lab student members have been funded as the McNair Scholar!
+In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative studies or mixed-method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn statistics and research methods to conduct research relating to these topics. Students will also have the opportunities to present at national conferences and apply for scholarships.  Since 2017, five lab student members have been funded as McNair Scholars!
 
 DAISO is developed by Dr. Manyu Li @ University of Louisiana at Lafayette. 
 
