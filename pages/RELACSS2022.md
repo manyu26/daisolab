@@ -10,7 +10,7 @@ permalink: "/teaching/RELACSS2022"
 
 ---
 
-This is a collection of materials/resources used in the RELACSS beginner workshop offered by Dr. Manyu Li for UL Lafayette social science students in 2022 (see [Call for Applications](https://manyu26.github.io/daisolab/teaching/RELACSS2022callapp)). Materials are designed with the interactive shiny app with the learnr package. All resources used in the workshop are shared/linked on this page. **No software download is needed**. The link under each module will bring you to the Shiny learnr lesson on shinyapps web.
+This is a collection of materials/resources used in the recurring RELACSS beginner workshop offered by Dr. Manyu Li for Louisiana college students (see [the Latest Call for Applications](https://manyu26.github.io/daisolab/teaching/RELACSS1callapp)). Materials are designed with the interactive shiny app with the learnr package. All resources used in the workshop are shared/linked on this page. **No software download is needed**. The link under each module will bring you to the Shiny learnr lesson on shinyapps web.
 
 All lessons are developed by Dr. Manyu Li licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. For other resources redirected from this page, please refer to the authors' website for licensing information.
 
