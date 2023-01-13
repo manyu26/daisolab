@@ -13,8 +13,7 @@ permalink: "/teaching/RELACSS1callapp"
 
 ## 2023 Call for Applications - Beginner Level
 
-[Apply Here > ](https://ullafayettepsyc.sjc1.qualtrics.com/jfe/form/SV_3JLv6ew3OwobsHQ)
-{: .t30 .button .radius}
+[Apply Here > ](https://ullafayettepsyc.sjc1.qualtrics.com/jfe/form/SV_3JLv6ew3OwobsHQ){: .t30 .button .radius}
 
 ### RELACSS Social Science Data Analytics Workshop Series for Beginners 
 
