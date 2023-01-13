@@ -13,6 +13,9 @@ permalink: "/teaching/RELACSS1callapp"
 
 ## 2023 Call for Applications - Beginner Level
 
+[Apply Here > ](https://ullafayettepsyc.sjc1.qualtrics.com/jfe/form/SV_3JLv6ew3OwobsHQ)
+{: .t30 .button .radius}
+
 ### RELACSS Social Science Data Analytics Workshop Series for Beginners 
 
 Calling all social science students in Louisiana! Learn R programming and data analysis easily with fellow students. Organized by Dr. Manyu Li at the University of Louisiana at Lafayette, the workshop and all materials are free to all participants. 
