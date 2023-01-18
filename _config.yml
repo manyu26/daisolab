@@ -42,7 +42,7 @@ urlimg: 'https://manyu26.github.io/daisolab/images/'
 
 
 # Logo size is 600x80 pixels
- logo: "logo.svg"
+logo: "logo.svg"
 
 # Plugins
 plugins:
