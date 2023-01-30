@@ -24,8 +24,8 @@ The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentor
 
 <img align="right" src="https://github.com/manyu26/daisolab/blob/master/images/PXL_20221103_164246477.jpg?raw=true" alt="student lounge in Girard second floor" itemprop="image" width="180" height="233.5">
 
-Mentors meet mentees regularly at the psychology department student lounge (second floor of Girard Hall across from room 203). Just walk in during the scheduled hours. No registration is required. The schedule can be found below: 
+Mentors meet mentees regularly at the psychology department student lounge (second floor of Girard Hall across from room 203). Just walk in during the scheduled hours. No registration is required. 
 
-
+<a href="https://drive.google.com/file/d/1krM6OdhrVLE-ulqu1RLYfhh3lZpjJeNr/view?usp=sharing" target="_blank">Spring 2023 Schedule (pdf file).</a> 
 
 See more information on <a href="https://advance.louisiana.edu/node/120" target="_blank">Academic Mentoring Matters (AMM) at UL Lafayette.</a> 
