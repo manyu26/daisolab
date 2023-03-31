@@ -25,14 +25,14 @@ gallery:
 Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.png">](https://scholar.google.com/citations?user=lU50KEgAAAAJ&hl=en&authuser=4){:target="_blank"} [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png">](https://orcid.org/0000-0002-8324-5868){:target="_blank"} 
 * Assistant Professor, Department of Psychology, University of Louisiana at Lafayette
 * Jack & Gladys Theall/BORSF Professor in Liberal Arts
-* Associate Editor, [Current Psychology](https://www.springer.com/journal/12144){:target="_blank"}
+* Sectuib Editor, [Current Psychology](https://www.springer.com/journal/12144){:target="_blank"}
 * Ph.D. and M.S., Psychology, University of Pittsburgh, Pittsburgh, PA
 * B.S.Sc.(hon), Psychology, Chinese University of Hong Kong, Hong Kong
 
 ### Current Graduate lab members 
 
-* Ayodeji Solomon Adegoke, M.Ed. in Adolescent and Youth Counselling, University of Ibadan, Nigeria [funded GRA]
-* Melanie Cohen, B.S. in Psychology, California Lutheran University [funded GRA]
+* Ayodeji Solomon Adegoke, M.Ed. in Adolescent and Youth Counselling, University of Ibadan, Nigeria [lab-funded GRA]
+* Melanie Cohen, B.S. in Psychology, California Lutheran University [lab-funded GRA]
 * Ashley Fromenthal, B.S. in Psychology, UL Lafayette
 * Brianna Sadighian, B.S. in Psychology, San Jose State University
 * Taylar Johnson, B.S. in Psychology, McNair Scholar, UL Lafayette
@@ -44,7 +44,7 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 
 ### Graduated members (first position post-graduation)
 
-* Cheyane Mitchell, BS and MS in Psychology (Education Analyst III, RTI International)
+* Cheyane Mitchell [lab-funded GRA], BS and MS in Psychology (Education Analyst III, RTI International)
 * Karina Santiago, McNair Scholar, BS in Psychology (MA in Counseling Education, UL Lafayette)
 * Kristen Black, MS in Psychology
 * Thomas Cain, MS in Psychology 
