@@ -46,7 +46,7 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 * Ashley Fromenthal [lab-funded summer GRA], B.S. and M.S. in Psychology (PhD in Psychology, University of Alabama)
 * Cheyane Mitchell [lab-funded GRA], BS and MS in Psychology (Education Analyst III, RTI International)
 * Karina Santiago, McNair Scholar, BS in Psychology (MA in Counseling Education, UL Lafayette)
-* Nadia Turki, BS in Psychology (Pre-med) (MA in Psychology, University of Chicago)
+* Nadia Turki, BS in Psychology Pre-med (MA in Psychology, University of Chicago)
 * Kristen Black, MS in Psychology
 * Thomas Cain, MS in Psychology 
 * Taylor Gage, BS in Psychology (MS in Psychology, UL Lafayette)
