@@ -39,22 +39,24 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 
 * Sarah West
 
-### Graduated members and degree obtained (position/continuing education post-graduation)
+### Graduated lab members and degree obtained (position/continuing education post-graduation)
 
-* Brooklyn E. Paul, B.S. in Psychology (MA in Counseling Education, UL Lafayette)
-* Brianna Sadighian [lab-funded summer GRA], M.S. in Psychology
 * Ashley Fromenthal [lab-funded summer GRA], B.S. and M.S. in Psychology (PhD in Psychology, University of Alabama)
+* Brianna Sadighian [lab-funded summer GRA], M.S. in Psychology
+* Prynceston Fant, M.S. in Psychology (PhD in Clinical Psychology, University of North Texas)
+* Ashley Messina, M.S. in Psychology (PhD in Counseling Psychology, University of Tennessee Knoxville)
+* Brooklyn E. Paul, B.S. in Psychology (MA in Counseling Education, UL Lafayette)
 * Cheyane Mitchell [lab-funded GRA], BS and MS in Psychology (Education Analyst III, RTI International)
 * Karina Santiago, McNair Scholar, BS in Psychology (MA in Counseling Education, UL Lafayette)
 * Nadia Turki, BS in Psychology Pre-med (MA in Psychology, University of Chicago)
-* Kristen Black, MS in Psychology
+* Kristen Black, MS in Psychology 
 * Thomas Cain, MS in Psychology 
 * Taylor Gage, BS in Psychology (MS in Psychology, UL Lafayette)
-* Casandra Izaguirre, BS in Psychology
+* Casandra Izaguirre, BS in Psychology (Toddler Teacher, Primrose Schools)
 * Kolby Curry, McNair Scholar, BS in Psychology (MA in Social Work, LSU)
-* Brooklyn Thibodeaux, BS in Psychology
+* Brooklyn Thibodeaux, BS in Psychology (UX Research Manager, IntelleXt)
 * Donaka Autry, McNair Scholar, BS in Psychology
-* Andre Rodriquez, McNair Scholar, BS in Psychology
+* Andre Rodriquez, McNair Scholar, BS in Psychology (Mental Health SpecialistMental Health Specialist, Resource Management Services)
 
 
 ---
