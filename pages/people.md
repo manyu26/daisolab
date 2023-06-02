@@ -39,7 +39,7 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 
 * Sarah West
 
-### Graduated lab members and degree obtained (position/continuing education post-graduation)
+### Graduated lab members and degree obtained (first position/continuing education post-graduation)
 
 * Ashley Fromenthal [lab-funded summer GRA], B.S. and M.S. in Psychology (PhD in Psychology, University of Alabama)
 * Brianna Sadighian [lab-funded summer GRA], M.S. in Psychology
