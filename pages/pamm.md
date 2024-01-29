@@ -16,7 +16,7 @@ The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentor
 **2022-2023 PAMM Officers**
 
 * President - Hiba Fazal-ur-Rehman
-* Vice President - Lila Mount
+* Vice President - Madison Gordy
 * Faculty Advisor - Dr. Manyu Li
 
 ### PAMM Mentoring schedule and meeting location
