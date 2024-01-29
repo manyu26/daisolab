@@ -11,7 +11,7 @@ permalink: "/teaching/pamm"
 
 ### What is Psychology Academic Mentoring Matters
 
-The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students who have already taken the classes in psychology and earned A's in the classes. 
+The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students who have already taken classes in psychology and earned A's in the classes. 
 
 **2022-2023 PAMM Officers**
 
@@ -26,6 +26,6 @@ The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentor
 
 Mentors meet mentees regularly at the psychology department student lounge (second floor of Girard Hall across from room 203). Just walk in during the scheduled hours. No registration is required. 
 
-<a href="https://drive.google.com/file/d/1QLcU7Wb6je11m9Wu3T2E7QbGCezYSm-P/view?usp=sharing" target="_blank">Fall 2023 Schedule (pdf file).</a> 
+<a href="https://drive.google.com/file/d/1QLcU7Wb6je11m9Wu3T2E7QbGCezYSm-P/view?usp=sharing" target="_blank">Spring 2024 Schedule (pdf file).</a> 
 
 See more information on <a href="https://advance.louisiana.edu/node/120" target="_blank">Academic Mentoring Matters (AMM) at UL Lafayette.</a> 
