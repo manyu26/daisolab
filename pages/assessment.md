@@ -19,7 +19,7 @@ In addition to DAISO lab research, as a resesarcher and an educator, Dr. Manyu L
 * Li, M., & van Lieu, S. (2018). Traditional and online faculty members’ use of classroom assessment techniques (CATs): A mixed-method study.  Journal of Instructional Research, 7(1), 90-99. DOI: 10.9743/JIR.2018.8. 
 
 #### Project Evaluation
-* “AddreSSing the TalEnt and DiversiTy Gap in Biotechnology Workforce (ASSET) program Louisiana Board of Regents, State of Louisiana (Evaluator; PI: Dr. Kumer Das; $999,291.00). Award number: 2322705; 2023-2026).
+* “AddreSSing the TalEnt and DiversiTy Gap in Biotechnology Workforce (ASSET) program; National Science Foundation (Evaluator; PI: Dr. Kumer Das; $999,291.00). Award number: 2322705; 2023-2026).
 * “Mid-career Faculty Fellowship Program" Evaluation, University of Louisiana at Lafayette.
 
 #### Relevant Grants:
