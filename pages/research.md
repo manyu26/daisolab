@@ -15,13 +15,13 @@ permalink: "/research/"
 
 
 ### Research Methods/Analytic approaches:
-* Bayesian approaches; machine learning (Li, 2019-2023 PI grant)
-* Automated Text Analysis (Li, 2018-2019 PI grant; Li, accepted)
-* Social network analysis (Li & Stone, 2018; Li. 2019-2023 PI grant)
-* Mixed modeling (Li, 2018 - 2019)
-* Latent profile/class analysis (Li, Lin &; Maer, 2020; Lin, Li et al., 2020)
-* Structural equation modeling (e.g., Li &; Frieze, 2016)
-* Social media/web crawling (Li et al., 2020)
+* Bayesian approaches; machine learning (Li, 2019-2024 PI grant; [Li et al., 2024](https://www.researchgate.net/publication/380031827_The_structure_of_psychosocial_factors_in_academic_success_A_gaussian_graphical_model_approach))
+* Automated Text Analysis (Li, 2018-2019 PI grant; [Li, 2022](https://www.researchgate.net/publication/357599610_Application_of_sentence-level_text_analysis_The_role_of_emotion_in_an_experimental_learning_intervention?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ))
+* Social network analysis (Li & Stone, 2018; Li. 2019-2024 PI grant)
+* Mixed modeling
+* Latent profile/class analysis ([Li, Lin &; Maer, 2020](https://www.researchgate.net/publication/347043723_Relationship_of_living_historical_memories_and_news_source_with_national_identity_A_latent_class_analysis?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ); [Lin, Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7799391/))
+* Structural equation modeling (e.g., [Li &; Frieze, 2016](https://www.researchgate.net/publication/309466726_Developing_civic_engagement_in_university_education_predicting_current_and_future_engagement_in_community_services))
+* Social media/web crawling ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement); [Li et al., 2023](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003291855-17/amplified-effort-manyu-li-ashley-fromenthal-brianna-sadighian))
 
 ### Research Topics:
 * Sense of belonging and inclusiveness in learning and educational settings (e.g., Li, 2022; Li &; Stone, 2018; Li, 2018-2019 PI grant)
