@@ -18,16 +18,16 @@ permalink: "/research/"
 * Bayesian approaches; machine learning (Li, 2019-2024 PI grant; [Li et al., 2024](https://www.researchgate.net/publication/380031827_The_structure_of_psychosocial_factors_in_academic_success_A_gaussian_graphical_model_approach))
 * Automated Text Analysis (Li, 2018-2019 PI grant; [Li, 2022](https://www.researchgate.net/publication/357599610_Application_of_sentence-level_text_analysis_The_role_of_emotion_in_an_experimental_learning_intervention?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ))
 * Social network analysis (Li & Stone, 2018; Li. 2019-2024 PI grant)
-* Mixed modeling
+* Linear mixed model (Li, 2022)
 * Latent profile/class analysis ([Li, Lin &; Maer, 2020](https://www.researchgate.net/publication/347043723_Relationship_of_living_historical_memories_and_news_source_with_national_identity_A_latent_class_analysis?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ); [Lin, Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7799391/))
 * Structural equation modeling (e.g., [Li &; Frieze, 2016](https://www.researchgate.net/publication/309466726_Developing_civic_engagement_in_university_education_predicting_current_and_future_engagement_in_community_services))
-* Social media/web crawling ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement); [Li et al., 2023](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003291855-17/amplified-effort-manyu-li-ashley-fromenthal-brianna-sadighian))
+* Web crawling ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement))
 
 ### Research Topics:
-* Sense of belonging and inclusiveness in learning and educational settings (e.g., Li, 2022; Li &; Stone, 2018; Li, 2018-2019 PI grant)
-* Social media behaviors (Li et al., 2020; Johnson, Li, Mitchell, submitted)
+* Sense of belonging and inclusiveness in learning and educational settings (e.g., Li, 2022; Li &; Stone, 2018)
+* Social media behaviors (Li et al., 2020; Johnson, Li, & Mitchell; Li et al., 2023)
 * Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li et al., 2019; Li et al., 2020)
-* Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2020-2021, PI grant; Li, 2021-2022, PI grant)
+* STEM education; Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2023; Wang, Li et al., 2023)
 * Natural disaster, e.g., Flood/hurricane victims in the Gulf Coast (Li &; Wozencraft, 2018-2019 PI grant)
 
 [Check out my Psychological Place Attachment Scale (PPAS) > ](https://manyu26.github.io/daisolab/research/ppas)
