@@ -24,7 +24,7 @@ permalink: "/research/"
 * Web crawling ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement))
 
 ### Research Topics:
-* Sense of belonging and inclusiveness in learning and educational settings (e.g., Li, 2022; Li &; Stone, 2018)
+* Sense of belonging and inclusiveness in learning and educational settings (e.g., Li et al., 2024; Li, 2022)
 * Social media behaviors (Li et al., 2020; Johnson, Li, & Mitchell; Li et al., 2023)
 * Ethnic minority issues; Immigration; Second-generation immigrants (e.g., Li et al., 2019; Li et al., 2020)
 * STEM education; Open Education Resources (OER) and Open Pedagogies (e.g., Li, 2023; Wang, Li et al., 2023)
