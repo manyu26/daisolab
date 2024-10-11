@@ -29,7 +29,7 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 * Ph.D. and M.S., Psychology, University of Pittsburgh, Pittsburgh, PA
 * B.S.Sc.(hon), Psychology, Chinese University of Hong Kong, Hong Kong
 
-### Current MS. in Psychology lab members 
+### Current M.S. in Psychology lab members 
 
 * Doralis Allen
 * Melanie Cohen
