@@ -8,7 +8,7 @@ header:
     image_fullwidth: "zdenek-machacek-FvTn9Dlv39A-unsplash.jpg"
 ---
 
-In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative studies or mixed-method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn statistics and research methods to conduct research relating to these topics. Students will also have the opportunities to present at national conferences and apply for scholarships.  Since 2017, five lab student members have been funded as McNair Scholars!
+In the Data-science Application in SOcial and community psychology (DAISO) lab, we conduct quantitative or mixed-method studies to understand issues such as sense of belonging, community engagement, place attachment, and migration and immigration. Students in the lab will learn research and data analytic methods to conduct research relating to these topics. Students will also be able to present at national conferences and apply for scholarships.  Since 2017, six lab student members have been funded as McNair Scholars!
 
 DAISO is developed by Dr. Manyu Li @ University of Louisiana at Lafayette. 
 
@@ -17,7 +17,7 @@ DAISO is developed by Dr. Manyu Li @ University of Louisiana at Lafayette.
 
 ### What does DAISO mean?
 
-The Data-science Application in SOcial and community psychology (DAISO) LAB focuses on improving data science in social/community psychology. In Cantonese, DAISO 大數（據）means Big Number or Big Data, highlighting the lab’s focus on analyzing big data and advancing data science in psychology.The name also recognizes my Hong Kong heritage and to pay tribute to the place that taught me the wonderful world of mathematics and statistics! 
+The Data-science Application in SOcial and community psychology (DAISO) LAB focuses on improving data science in social/community psychology. In Cantonese, DAISO 大數（據）means Big Number or Big Data, highlighting the lab’s focus on analyzing big data and advancing data science in psychology. The name also recognizes my Hong Kong heritage and pays tribute to the place that taught me the wonderful world of mathematics and statistics! (I also like to shop at DAISO in Japan but that's irrelevant here!)
 
 [DAISO Research > ](https://manyu26.github.io/daisolab/research){: .t30 .button .radius}
 
@@ -25,8 +25,8 @@ The Data-science Application in SOcial and community psychology (DAISO) LAB focu
 
 ### Data Analytics Workshop
 
-The DAISO lab offers recurring R data analytic workshops for UL Lafayette social science students. The workshop series is taught by Dr. Manyu Li and are completely free. Check out past and current workshops:
+The DAISO lab offers recurring R data analytic workshops for UL Lafayette social science students. The workshop series is taught by Dr. Manyu Li and is completely free. Check out past and current workshops:
 
-[2022 RELACSS Beginner Computational Social Science workshop > ](https://manyu26.github.io/daisolab/teaching/RELACSS2022){: .t30 .button .radius}
+[2022-2023 RELACSS Beginner Computational Social Science workshop > ](https://manyu26.github.io/daisolab/teaching/RELACSS2022){: .t30 .button .radius}
 
 [2021 R programming for social science workshop > ](https://manyu26.github.io/daisolab/teaching/rsummer){: .t30 .button .radius}
