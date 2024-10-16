@@ -21,7 +21,7 @@ permalink: "/research/"
 * Linear mixed model (Li, 2022)
 * Latent profile/class analysis ([Li, Lin &; Maer, 2020](https://www.researchgate.net/publication/347043723_Relationship_of_living_historical_memories_and_news_source_with_national_identity_A_latent_class_analysis?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ); [Lin, Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7799391/))
 * Structural equation modeling (e.g., [Li &; Frieze, 2016](https://www.researchgate.net/publication/309466726_Developing_civic_engagement_in_university_education_predicting_current_and_future_engagement_in_community_services))
-* Web crawling ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement))
+* Social media analysis ([Li et al., 2020](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.22324); [Johnson, Li, & Mitchell](https://www.researchgate.net/publication/377621803_Activism_through_fandom_for_the_Black_Lives_Matter_movement))
 
 ### Research Topics:
 * Sense of belonging and inclusiveness in learning and educational settings (e.g., Li et al., 2024; Li, 2022)
