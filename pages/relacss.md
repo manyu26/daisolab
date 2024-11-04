@@ -9,7 +9,7 @@ header:
 permalink: "/teaching/relacss"
 ---
 
-
+ 
 ### What is RELACSS?
 Rapport-building Equitable Learner-centered Authentic Computational Social Science (RELACSS) is a learning community group housed at UL Lafayette to support social science students to learn data science and to develop a career pathway in data science/computational social science. 
 
