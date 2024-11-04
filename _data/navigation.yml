@@ -14,10 +14,8 @@
   dropdown:
   - title: "Teaching Overview"
     url: "/teaching/"
-  - title: "2022 Beginner Computational Social Science Workshop"
-    url: "/teaching/RELACSS2022"
-  - title: "2021 R Programming for Social Science Workshop"
-    url: "/teaching/rsummer"
+  - title: "Computational Social Science Learning Support Community"
+    url: "/teaching/relacss"
   - title: "Open Education Teaching and Research"
     url: "/teaching/oer"
   - title: "Psychology Academic Mentoring Matters (PAMM)"
