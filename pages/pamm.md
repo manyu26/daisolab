@@ -15,9 +15,8 @@ The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentor
 
 **2024-2025 PAMM Officers**
 
-* President - Elly Scrantz
-* Vice President - Ella Garlington
-* Social Media Coordinator - Chloe Trahan
+* President - Ella Garlington
+* Vice President/Social Media Coordinator - Chloe Trahan
 * Faculty Advisor - Dr. Manyu Li
 
 ### PAMM Mentoring schedule and meeting location
