@@ -13,7 +13,7 @@ permalink: "/teaching/pamm"
 
 The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentoring program launched in 2021. The primary goal is to provide free tutoring for students one-on-one on various psychology courses. Mentors are students who have already taken classes in psychology and earned A's in the classes. [Follow PAMM on instagram](https://www.instagram.com/pamm_ul/) for more information.
 
-**2024-2025 PAMM Officers**
+**2025 Spring PAMM Officers**
 
 * President - Ella Garlington
 * Vice President/Social Media Coordinator - Chloe Trahan
