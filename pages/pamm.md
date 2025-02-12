@@ -16,7 +16,8 @@ The Psychology Chapter of the Academic Mentoring Matters (PAMM) is a peer-mentor
 **2025 Spring PAMM Officers**
 
 * President - Ella Garlington
-* Vice President/Social Media Coordinator - Chloe Trahan
+* Vice President - Ruthie McCann
+* Social Media Manager - Allie Fontenot
 * Faculty Advisor - Dr. Manyu Li
 
 ### PAMM Mentoring schedule and meeting location
