@@ -9,8 +9,6 @@ header:
 permalink: "/teaching/oer"
 ---
 
-%https://louis.oercommons.org/courseware/lesson/1216/overview
-%https://louis.oercommons.org/courseware/lesson/1225/overview
 
 ### OER Researcher and Evaluator
 In collaboration wtih a polymer scientist, I conduct research on OER-enabled pedagogy to develop and improve OERs (experiment simulator) for polymer science classrooms ([NSF Award #2142043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142043){:Target"_blank"}). Serving as the psychologist on the team, I design and assess the role of sociocognitive factors in students' learning with the interactive OERs. Our initial findings have been published in the [Journal of Chemical Education by ACS](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c01250){:Target"_blank"}.
@@ -33,3 +31,6 @@ I am an instructor actively adapting OERs in all my courses. With the funding fr
 I have served as the mentor for [OE4BW](https://oe4bw.org/){:Target"_blank"}, an Open Education initative supported by UNESCO since 2022. In the program, I mentor faculty from under-resource regions of the world to develop high-quality, accessible open education materials. 
 
 In 2021-2022, with the stipend from the Office of Distance Learning at UL Lafayette, I serve as the facilitator for a Faculty Learning Community (FLC) on [Open Educational Resources (OER)](https://louisiana.edu/distancelearning/news/inaugural-flcs-yield-results). Also, with the stipend and training from LOUIS OER Commons Faculty Cohort Program and LOUIS Open Education Network, I have contributed to the OER community by reviewing the scope, accessibility, adaptability, content accuracy, cultural relevance. I also served as a participant in user studies conducted by [ISKME](https://www.iskme.org/).
+
+[](https://louis.oercommons.org/courseware/lesson/1216/overview)
+[](%https://louis.oercommons.org/courseware/lesson/1225/overview)
