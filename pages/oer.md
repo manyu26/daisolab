@@ -9,6 +9,9 @@ header:
 permalink: "/teaching/oer"
 ---
 
+%https://louis.oercommons.org/courseware/lesson/1216/overview
+%https://louis.oercommons.org/courseware/lesson/1225/overview
+
 ### OER Researcher and Evaluator
 In collaboration wtih a polymer scientist, I conduct research on OER-enabled pedagogy to develop and improve OERs (experiment simulator) for polymer science classrooms ([NSF Award #2142043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142043){:Target"_blank"}). Serving as the psychologist on the team, I design and assess the role of sociocognitive factors in students' learning with the interactive OERs. Our initial findings have been published in the [Journal of Chemical Education by ACS](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c01250){:Target"_blank"}.
 
@@ -24,7 +27,7 @@ With the funding from the APA Div. 2 Society for the Teaching of Psychology (STP
 I am also the first author of the Personality Chapter of [Promoting Psychological Science](http://teachpsych.org/ebooks/promotingpsychscience){:Target"_blank"} in the APA STP e-book series.
 
 ### OER User
-I am an instructor actively adapting OERs in all my courses. With the funding from the [LOUIS Affordable Learning LOUISiana Open Educational Resources Course Transformation Program through funding from the Louisiana Board of Regent](https://louislibraries.org/initiatives/affordable-learning/course-transformation){:Target"_blank"}, I have published my OER course adaptation tools and OER-enabled pedagogy documents for undergraduate-level [Introduction to Social Psychology](https://louis.oercommons.org/courseware/lesson/1216/overview){:Target"_blank"} and [Theories of Personality](https://louis.oercommons.org/courseware/lesson/1225/overview){:Target"_blank"}. The collections include a complete set of teaching courseware (syllabus, lecture slides, study guides, exam questions, in-class activities) that allows other instructors to easily transform their course into an OER course. 
+I am an instructor actively adapting OERs in all my courses. With the funding from the [LOUIS Affordable Learning LOUISiana Open Educational Resources Course Transformation Program through funding from the Louisiana Board of Regent](https://louislibraries.org/initiatives/affordable-learning/course-transformation){:Target"_blank"}, I have published my OER course adaptation tools and OER-enabled pedagogy documents for undergraduate-level Introduction to Social Psychology and Theories of Personality. The collections include a complete set of teaching courseware (syllabus, lecture slides, study guides, exam questions, in-class activities) that allows other instructors to easily transform their course into an OER course. 
 
 ### OER Peer Trainer and Reviewer
 I have served as the mentor for [OE4BW](https://oe4bw.org/){:Target"_blank"}, an Open Education initative supported by UNESCO since 2022. In the program, I mentor faculty from under-resource regions of the world to develop high-quality, accessible open education materials. 
