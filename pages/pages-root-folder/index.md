@@ -60,12 +60,12 @@ My research applies theories and evidence in **belonging, place attachment, and 
 * **Advanced Analytics:** Utilizing Natural Language Processing (NLP), Bayesian Gaussian Graphical Models, Neural Models, and Social Network Analysis to model psychological constructs.
 * **STEM Education and Pedagogy:** I partner with science educators to improve STEM education learning through applying evidence-based pedagogy and learning theories to develop education technology.
 * **Program evaluation:** I utilize mixed-methods to evaluate nationally funded projects. 
-* **Open Science and Education:** Promoting transparency through **Open Educational Resources (OER)** and accessible data practices.
+* **Open Science and Education:** Promoting transparency through Open Educational Resources (OER), research data sharing, and accessible data practices.
 
 ### Mentorship & Academic Impact
-A cornerstone of my professional mission is the development of future scholars. Through the **DAISO Lab**, I provide rigorous training in **R programming** and **computational social science** skills. 
-* Since 2017, I have successfully mentored **six McNair Scholars**, guiding them through national conference presentations and successful transitions to graduate-level research.
-* I am an advocate for **evidence-based pedagogy**, developing high-impact OER materials to make data science education more accessible to social science students.
+A cornerstone of my professional mission is developing future scholars. Through the **DAISO Lab**, I provide rigorous training in **R programming** and **computational social science** skills. 
+* Since 2017, I have successfully mentored **six McNair Scholars**, guiding them through national conference presentations, publications, and successful transitions to graduate-level research.
+* I am an advocate for **evidence-based pedagogy**, developing high-impact OER materials and educational technology to make STEM education more accessible to social science students.
 
 ---
 
