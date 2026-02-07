@@ -55,7 +55,7 @@ homepage: true
 
 Dr. Manyu Li is an Associate Professor and Mr. and Mrs. E.P. “Pat” Nalley/BORSF Professor in Social Sciences at the **University of Louisiana at Lafayette** and the founder/director of the **Data-science Application in SOcial and community psychology (DAISO) Lab**. Li graduated from the University of Pittsburgh with a Ph.D. in Psychology in 2014. Her research sits at the intersection of social, community, and educational psychology, focusing on how data analytics can illuminate complex human experiences in these areas.
 
-Li is one of the Early Career Fellow for the <a href="https://studentexperiencenetwork.org/designation/career-fellowship/" target="_blank"> National Study of the Learning Mindset</a>, Research Fellow for the <a href="https://openedgroup.org/fellows/" target="_blank"> Open Education Group</a>, investigators (2) and senior personnel (2) on four NSF grants. 
+Li is an Early Career Fellow for the <a href="https://studentexperiencenetwork.org/designation/career-fellowship/" target="_blank"> National Study of the Learning Mindset</a>, Research Fellow for the <a href="https://openedgroup.org/fellows/" target="_blank"> Open Education Group</a>, as well as Investigators (2) and Senior Personnel (2) on four NSF grants. 
 
 ---
 
@@ -66,6 +66,7 @@ Li is one of the Early Career Fellow for the <a href="https://studentexperiencen
 * **Program evaluation:** I utilize mixed-methods to evaluate nationally funded projects and assess degree programs. 
 
 ### Mentorship & Academic Impact
+* I mentor undergraduate and master's students through the DAISO lab, offering students opportunities to conduct research, present at conferences, and co-author papers. I received student-nominated awards on <a href="https://louisiana.edu/graduateschool/blog/meet-outstanding-masters-mentor-dr-manyu-li" target="_blank">Outstanding Master's Mentor Award</a> and Outstanding Faculty Advisor Award. 
 * I am an advocate for **evidence-based pedagogy**, developing high-impact OER materials and educational technology to make STEM education more accessible to social science students through my <a href="https://manyu26.github.io/daisolab/teaching/relacss" target="_blank" rel="noopener noreferrer">RELACSS series</a>.
 * Since 2017, I have successfully mentored **six McNair Scholars**, guiding them through national conference presentations, publications, and successful transitions to graduate-level research.
 * **Open Science and Education:** Promoting transparency through Open Educational Resources (OER), research data sharing, and accessible data practices; recipient of <a href="https://hazards.colorado.edu/research/weather-ready/instrument-and-data-publication#:~:text=Institute%20of%20Technology.-,Manyu,-Li%20and%20Theresa" target="_blank">data publication award</a>.
