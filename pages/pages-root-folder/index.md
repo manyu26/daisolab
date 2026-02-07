@@ -55,8 +55,9 @@ homepage: true
 
 Dr. Manyu Li is an Associate Professor and Mr. and Mrs. E.P. “Pat” Nalley/BORSF Professor in Social Sciences at the **University of Louisiana at Lafayette** and the founder/director of the **Data-science Application in SOcial and community psychology (DAISO) Lab**. Li graduated from the University of Pittsburgh with a Ph.D. in Psychology in 2014. Her research sits at the intersection of social, community, and educational psychology, focusing on how data analytics can illuminate complex human experiences in these areas.
 
+Li is one of the Early Career Fellow for the <a href="https://studentexperiencenetwork.org/designation/career-fellowship/" target="_blank"> National Study of the Learning Mindset</a>, Research Fellow for the <a href="https://openedgroup.org/fellows/" target="_blank"> Open Education Group</a>, investigators (2) and senior personnel (2) on four NSF grants. 
 
---
+---
 
 ### Research Areas
 * Application of theories and evidence in **belonging, place attachment, and motivation** in two key areas: (1) STEM education and learning sciences, and (2) community engagement and resilience. 
@@ -68,7 +69,7 @@ Dr. Manyu Li is an Associate Professor and Mr. and Mrs. E.P. “Pat” Nalley/BO
 * I am an advocate for **evidence-based pedagogy**, developing high-impact OER materials and educational technology to make STEM education more accessible to social science students through my <a href="https://manyu26.github.io/daisolab/teaching/relacss" target="_blank" rel="noopener noreferrer">RELACSS series</a>.
 * Since 2017, I have successfully mentored **six McNair Scholars**, guiding them through national conference presentations, publications, and successful transitions to graduate-level research.
 * **Open Science and Education:** Promoting transparency through Open Educational Resources (OER), research data sharing, and accessible data practices; recipient of <a href="https://hazards.colorado.edu/research/weather-ready/instrument-and-data-publication#:~:text=Institute%20of%20Technology.-,Manyu,-Li%20and%20Theresa" target="_blank">data publication award</a>.
-* **Editing:** I am a Section Editor for <a href="https://link.springer.com/journal/12144" target="_blank" rel="noopener noreferrer">Current Psychology</a> (Springer) and an Associate Editor for <a href="https://www.tandfonline.com/journals/cedp20/about-this-journal#journal-metrics" target="_blank" rel="noopener noreferrer">Educational Psychology</a> (Taylor and Francis). 
+* **Editing:** I am a Section Editor for <a href="https://link.springer.com/journal/12144" target="_blank" rel="noopener noreferrer">Current Psychology</a> (Springer) since 2022 and an Associate Editor for <a href="https://www.tandfonline.com/journals/cedp20/about-this-journal#journal-metrics" target="_blank" rel="noopener noreferrer">Educational Psychology</a> (Taylor and Francis) since 2026. 
 
 ---
 
