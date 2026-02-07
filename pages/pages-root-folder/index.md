@@ -56,16 +56,16 @@ homepage: true
 Dr. Manyu Li is an Associate Professor and Mr. and Mrs. E.P. “Pat” Nalley/BORSF Professor in Social Sciences at the **University of Louisiana at Lafayette** and the founder/director of the **Data-science Application in SOcial and community psychology (DAISO) Lab**. Li graduated from the University of Pittsburgh with a Ph.D. in Psychology in 2014. Her research sits at the intersection of social, community, and educational psychology, focusing on how data analytics can illuminate complex human experiences in these areas.
 
 ### Research Areas
-My research applies theories and evidence in **belonging, place attachment, and motivation** in two key areas: (1) STEM education and (2) community engagement and resilience. I specialize in applying advanced quantitative methodologies to social issues, specifically:
-* **Data Analytics:** On top of linear models typical in behavioral science research, I utilize techniques such as Natural Language Processing (NLP), Bayesian Gaussian Graphical Models, Neural Models, and Social Network Analysis to model psychological constructs.
+* Application of theories and evidence in **belonging, place attachment, and motivation** in two key areas: (1) STEM education and learning sciences, and (2) community engagement and resilience. 
+* **Data Analytics:** On top of linear models typical in behavioral science research, I utilize techniques such as Natural Language Processing, Bayesian Gaussian Graphical Models, Neural Models, and Social Network Analysis to model psychological constructs.
 * **STEM Education and Pedagogy:** I partner with science educators to improve STEM education learning through applying evidence-based pedagogy and learning theories to develop and implement education technology.
 * **Program evaluation:** I utilize mixed-methods to evaluate nationally funded projects and assess degree programs. 
-* **Open Science and Education:** Promoting transparency through Open Educational Resources (OER), research data sharing, and accessible data practices.
 
 ### Mentorship & Academic Impact
 A cornerstone of my professional mission is developing future scholars. Through the **DAISO Lab**, I provide rigorous training in **R programming** and **computational social science** skills. 
 * Since 2017, I have successfully mentored **six McNair Scholars**, guiding them through national conference presentations, publications, and successful transitions to graduate-level research.
 * I am an advocate for **evidence-based pedagogy**, developing high-impact OER materials and educational technology to make STEM education more accessible to social science students through my <a href="https://manyu26.github.io/daisolab/teaching/relacss" target="_blank" rel="noopener noreferrer">RELACSS series</a>.
+* **Open Science and Education:** Promoting transparency through Open Educational Resources (OER), research data sharing, and accessible data practices.
 
 ---
 
