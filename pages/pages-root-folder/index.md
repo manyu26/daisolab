@@ -55,7 +55,7 @@ homepage: true
 
 Dr. Manyu Li is an Associate Professor and Mr. and Mrs. E.P. “Pat” Nalley/BORSF Professor in Social Sciences at the **University of Louisiana at Lafayette** and the founder/director of the **Data-science Application in SOcial and community psychology (DAISO) Lab**. Li graduated from the University of Pittsburgh with a Ph.D. in Psychology in 2014. Her research sits at the intersection of social, community, and educational psychology, focusing on how data analytics can illuminate complex human experiences in these areas.
 
-Li is an Early Career Fellow for the <a href="https://studentexperiencenetwork.org/designation/career-fellowship/" target="_blank"> National Study of the Learning Mindset</a>, Research Fellow for the <a href="https://openedgroup.org/fellows/" target="_blank"> Open Education Group</a>, as well as Investigators (2) and Senior Personnel (2) on four NSF grants. 
+Li is an Early Career Fellow for the <a href="https://studentexperiencenetwork.org/designation/career-fellowship/" target="_blank"> National Study of the Learning Mindset</a>, Research Fellow for the <a href="https://openedgroup.org/fellows/" target="_blank"> Open Education Group</a>, as well as Investigators (2) and External Evaluators (2) on four NSF grants. 
 
 ---
 
