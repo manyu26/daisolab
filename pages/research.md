@@ -14,8 +14,8 @@ permalink: "/research/"
 * [ORCID (Record of research activities)](https://orcid.org/0000-0002-8324-5868)
 
 ## Sponsored Projects
-* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2524574" target="_blank" rel="noopener noreferrer">NSF #2524574 "Computer Science and AI for All in Louisiana: Developing a Comprehensive PreK-12 Pathway."</a>
-* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools."</a>
+* "Computer Science and AI for All in Louisiana: Developing a Comprehensive PreK-12 Pathway." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2524574" target="_blank" rel="noopener noreferrer">NSF #2524574</a>
+* "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 </a>
 
 ## External Evaluation Projects
 * <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools."</a>
