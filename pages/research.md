@@ -18,8 +18,8 @@ permalink: "/research/"
 * "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 </a>
 
 ## External Evaluation Projects
-* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools."</a>
-* <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2322705" target="_blank" rel="noopener noreferrer">NSF #2142043 "Beginnings: Addressing the Talent and Diversity Gap in Biotechnology Workforce."</a>
+* "RII FEC: Reversing Disproportionate Impacts of Hydroclimatic Extremes in Water-Rich Regions via Justice-Minded Research and Collaborative Adaptation Planning." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2418434" target="_blank" rel="noopener noreferrer">NSF #2418434 </a>
+* "Beginnings: Addressing the Talent and Diversity Gap in Biotechnology Workforce." <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2322705" target="_blank" rel="noopener noreferrer">NSF #2322705 </a>
 
 ### Research Methods/Analytic approaches:
 * Bayesian approaches; machine learning (Li, 2019-2024 PI grant; [Li et al., 2024](https://www.researchgate.net/publication/380031827_The_structure_of_psychosocial_factors_in_academic_success_A_gaussian_graphical_model_approach))
