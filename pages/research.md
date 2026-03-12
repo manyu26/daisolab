@@ -2,24 +2,25 @@
 layout: page
 show_meta: false
 title: "Research"
-subheadline: "DAISO research projects at a glance"
+subheadline: "Manyu Li's research projects at a glance."
 teaser:  
 header:
    image_fullwidth: "todd-steitle-ExnAdmi-Asc-unsplash.jpg"
 permalink: "/research/"
 ---
 
-### For a full list of my publication, see
+### For a full list of my publications, see
 * [Google Scholar Record of Publications](https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en)
 * [ORCID (Record of research activities)](https://orcid.org/0000-0002-8324-5868)
 
-## Sponsored Projects
-* "Computer Science and AI for All in Louisiana: Developing a Comprehensive PreK-12 Pathway." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2524574" target="_blank" rel="noopener noreferrer">NSF #2524574</a>
-* "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 </a>
+### Sponsored Projects
+* "Computer Science and AI for All in Louisiana: Developing a Comprehensive PreK-12 Pathway." (2025 - 2027) <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2524574" target="_blank" rel="noopener noreferrer">NSF #2524574</a>
+* "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools." (2022-2026) <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 </a>
+* "Multimethod Approaches to Understanding the Complexity of Psychological, Social, and Community Influences on Academic Outcomes." (2019 - 2023) <a href="https://rsi.laregents.edu/documents/fy_2018_19/RD_RCS_FINAL_19.pdf" target="_blank" rel="noopener noreferrer">Board of Regents Louisiana #122A-19; Rank #1 </a>
 
-## External Evaluation Projects
-* "RII FEC: Reversing Disproportionate Impacts of Hydroclimatic Extremes in Water-Rich Regions via Justice-Minded Research and Collaborative Adaptation Planning." <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2418434" target="_blank" rel="noopener noreferrer">NSF #2418434 </a>
-* "Beginnings: Addressing the Talent and Diversity Gap in Biotechnology Workforce." <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2322705" target="_blank" rel="noopener noreferrer">NSF #2322705 </a>
+### External Evaluation Projects
+* "RII FEC: Reversing Disproportionate Impacts of Hydroclimatic Extremes in Water-Rich Regions via Justice-Minded Research and Collaborative Adaptation Planning." (2025 - 2028) <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2418434" target="_blank" rel="noopener noreferrer">NSF #2418434 </a>
+* "Beginnings: Addressing the Talent and Diversity Gap in Biotechnology Workforce." (2023 - 2025) <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2322705" target="_blank" rel="noopener noreferrer">NSF #2322705 </a>
 
 ### Research Methods/Analytic approaches:
 * Bayesian approaches; machine learning (Li, 2019-2024 PI grant; [Li et al., 2024](https://www.researchgate.net/publication/380031827_The_structure_of_psychosocial_factors_in_academic_success_A_gaussian_graphical_model_approach))
