@@ -13,6 +13,13 @@ permalink: "/research/"
 * [Google Scholar Record of Publications](https://scholar.google.com/citations?user=lU50KEgAAAAJ&amp;hl=en)
 * [ORCID (Record of research activities)](https://orcid.org/0000-0002-8324-5868)
 
+## Sponsored Projects
+* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2524574" target="_blank" rel="noopener noreferrer">NSF #2524574 "Computer Science and AI for All in Louisiana: Developing a Comprehensive PreK-12 Pathway."</a>
+* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools."</a>
+
+## External Evaluation Projects
+* <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2142043" target="_blank" rel="noopener noreferrer">NSF #2142043 "Improving Inductive Reasoning Skills in Polymer Science Through Open Virtual Experiment Simulator Education Tools."</a>
+* <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2322705" target="_blank" rel="noopener noreferrer">NSF #2142043 "Beginnings: Addressing the Talent and Diversity Gap in Biotechnology Workforce."</a>
 
 ### Research Methods/Analytic approaches:
 * Bayesian approaches; machine learning (Li, 2019-2024 PI grant; [Li et al., 2024](https://www.researchgate.net/publication/380031827_The_structure_of_psychosocial_factors_in_academic_success_A_gaussian_graphical_model_approach))
