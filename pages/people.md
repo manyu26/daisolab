@@ -30,38 +30,26 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 * B.S.Sc.(hon), Psychology, Chinese University of Hong Kong, Hong Kong
 
 ### Current M.S. in Psychology lab members 
-
-* Doralis Allen
-* Melanie Cohen
-* Amelia Curtis
-* Taylar Johnson
-* Jamillia McKinley
-* Anita Saha
+* Jonathan Carney
+* Ayanna Starks
 
 ### Current B.S. in Psychology lab members 
 
-* Titus Boudreaux (McNair Scholar)
-* Sarah Boyette
-* Allie Fontenot
-* Marcus Hollingsworth
-* Piper Romero
+* Finn Mohawk
 
 ### Graduated lab members and degree obtained (first position/continuing education post-graduation)
 
-#### Graduated chaired master's student
+#### Graduated members at master's level
+* Amelia Curtis, M.S. in Psychology
+* Taylar Johnson [lab-funded undergraduate RA], B.S. and M.S. in Psychology (Clinical data analyst, Pennington Biomedical Research Center) 
 * Ayodeji Solomon Adegoke [lab-funded GRA], MS in Psychology (doctoral student in psychology, Wayne State University)
 * Ashley Fromenthal [lab-funded summer GRA], B.S. and M.S. in Psychology (doctoral student in Clinical Geropsychology, University of Alabama)
 * Brianna Sadighian [lab-funded summer GRA], M.S. in Psychology (Program Assistant, Diablo Valley College)
 * Cheyane Mitchell [lab-funded GRA], BS and MS in Psychology (Education Analyst, RTI International)
-* Kristen Black, MS in Psychology 
-* Thomas Cain, MS in Psychology 
-
-#### Graduated master's student lab members
 * Prynceston Fant, M.S. in Psychology (doctoral student in Clinical Psychology, University of North Texas)
 * Ashley Messina, M.S. in Psychology (doctoral student in Counseling Psychology, University of Tennessee Knoxville)
 
-#### Graduated bachelor's student lab members
-* Sarah West
+#### Graduated members at bachelor's level
 * Brooklyn E. Paul, B.S. in Psychology (MA in Counseling Education, UL Lafayette)
 * Karina Santiago, McNair Scholar, BS in Psychology (MA in Counseling Education, UL Lafayette)
 * Nadia Turki, BS in Psychology Pre-med (MA in Psychology, University of Chicago)
@@ -69,7 +57,6 @@ Manyu Li [<img src="https://img.icons8.com/color/24/000000/google-scholar--v3.pn
 * Casandra Izaguirre, BS in Psychology (Toddler Teacher, Primrose Schools)
 * Kolby Curry, McNair Scholar, BS in Psychology (MA in Social Work, Louisiana State University)
 * Brooklyn Thibodeaux, BS in Psychology (UX Research Manager, IntelleXt)
-* Donaka Autry, McNair Scholar, BS in Psychology
 * Andre Rodriquez, McNair Scholar, BS in Psychology (Mental Health Specialist, Resource Management Services)
 
 ---
